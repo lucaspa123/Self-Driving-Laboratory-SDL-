@@ -1,0 +1,4 @@
+﻿n;fecha;campana;origen;estado;var:temperatura;var:tiempo;var:velocidad;var:vol_fe;var:vol_naoh;obj:ph_final;obj:rendimiento;notas
+1;2026-11-19 19:13;;previo;completado;40;60;50;15;8;10.017;42.727;Dato de ejemplo (inventado).
+2;2026-11-19 19:13;;previo;completado;25;30;30;25;5;10.286;0;Dato de ejemplo (inventado).
+3;2026-11-19 19:13;;previo;completado;55;90;70;10;15;9.704;56.309;Dato de ejemplo (inventado).

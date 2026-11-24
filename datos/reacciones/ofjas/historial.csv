@@ -1,0 +1,4 @@
+﻿n;fecha;campana;origen;estado;var:caudal_de_bureta_1;var:velocidad_de_agitador_nema17;var:volumen_de_bureta_1;obj:rendimiento;notas
+1;2026-11-20 11:28;;previo;completado;2;30;3;97.75;
+2;2026-11-20 11:30;2026-11-20 11:29;exploracion;abortado;4.028;20;1;;Interrumpido por un error: Bureta 1: esta dosis pide abrir el robinete solo 0.45 s, y el servo continuo tarda 0.72 s en abrirlo a ese 100 %. Dosifique un volumen mayor o con menos caudal, o acelere el servo (servo_vel_us) y vuelva a medir sus °/s.
+3;2026-11-20 11:32;2026-11-20 11:32;exploracion;abortado;0.028;20;5;;Interrumpido por parada de emergencia.

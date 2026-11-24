@@ -1,0 +1,160 @@
+id: sintesis_de_magnetita
+nombre: Sintesis de Magnetita
+reaccion: v_2fecl3_fecl2_8naoh_h2o_fe3o4_8nacl_4h2o
+descripcion: ''
+max_experimentos: 50
+capacidad_vaso_ml: 600.0
+supervisado: true
+paciencia: 15
+variables:
+- nombre: volumen_de_bureta_1
+  etiqueta: Volumen de Bureta 1
+  unidad: mL
+  minimo: 11.2
+  maximo: 13.8
+  paso: 0.2
+  origen: modulo
+  modulo: bureta_1
+  accion: dosificar
+  parametro: volumen
+- nombre: ratio_de_fecl3_fecl2
+  etiqueta: ratio de FeCl3/FeCl2
+  unidad: ''
+  minimo: 1.5
+  maximo: 2.2
+  paso: 0.1
+  origen: manual
+  modulo: ''
+  accion: ''
+  parametro: ''
+- nombre: volumen_de_agua
+  etiqueta: volumen de agua
+  unidad: mL
+  minimo: 180.0
+  maximo: 450.0
+  paso: 1.0
+  origen: manual
+  modulo: ''
+  accion: ''
+  parametro: ''
+- nombre: velocidad_de_agitador
+  etiqueta: Velocidad de Agitador
+  unidad: '%'
+  minimo: 20.0
+  maximo: 50.0
+  paso: 1.0
+  origen: modulo
+  modulo: agitador
+  accion: encender
+  parametro: velocidad
+- nombre: tiempo_de_reaccion_1
+  etiqueta: Tiempo de reacción 1
+  unidad: s
+  minimo: 10.0
+  maximo: 180.0
+  paso: 1.0
+  origen: tiempo
+  modulo: ''
+  accion: ''
+  parametro: ''
+- nombre: gramos_de_acido
+  etiqueta: gramos de acido
+  unidad: g
+  minimo: 2.0
+  maximo: 10.0
+  paso: 0.1
+  origen: manual
+  modulo: ''
+  accion: ''
+  parametro: ''
+- nombre: tiempo_de_reaccion_2
+  etiqueta: Tiempo de reacción 2
+  unidad: s
+  minimo: 30.0
+  maximo: 180.0
+  paso: 1.0
+  origen: tiempo
+  modulo: ''
+  accion: ''
+  parametro: ''
+- nombre: ph
+  etiqueta: pH final
+  unidad: ''
+  minimo: 5.5
+  maximo: 7.0
+  paso: 0.5
+  origen: manual
+  modulo: ''
+  accion: ''
+  parametro: ''
+objetivos: []
+restricciones: []
+protocolo:
+- tipo: accion
+  modulo: bureta_1
+  accion: dosificar
+  parametros:
+    volumen: $volumen_de_bureta_1
+  segundos: 0
+  mensaje: ''
+  variable: ''
+  objetivo: ''
+- tipo: ajuste_manual
+  modulo: ''
+  accion: ''
+  parametros: {}
+  segundos: 0
+  mensaje: ''
+  variable: ratio_de_fecl3_fecl2
+  objetivo: ''
+- tipo: ajuste_manual
+  modulo: ''
+  accion: ''
+  parametros: {}
+  segundos: 0
+  mensaje: ''
+  variable: volumen_de_agua
+  objetivo: ''
+- tipo: accion
+  modulo: agitador
+  accion: encender
+  parametros:
+    velocidad: $velocidad_de_agitador
+  segundos: 0
+  mensaje: ''
+  variable: ''
+  objetivo: ''
+- tipo: esperar
+  modulo: ''
+  accion: ''
+  parametros: {}
+  segundos: $tiempo_de_reaccion_1
+  mensaje: ''
+  variable: ''
+  objetivo: ''
+- tipo: ajuste_manual
+  modulo: ''
+  accion: ''
+  parametros: {}
+  segundos: 0
+  mensaje: ''
+  variable: gramos_de_acido
+  objetivo: ''
+- tipo: esperar
+  modulo: ''
+  accion: ''
+  parametros: {}
+  segundos: $tiempo_de_reaccion_2
+  mensaje: ''
+  variable: ''
+  objetivo: ''
+- tipo: ajuste_manual
+  modulo: ''
+  accion: ''
+  parametros: {}
+  segundos: 0
+  mensaje: ''
+  variable: ph
+  objetivo: ''
+reactivos: {}
+registros: []

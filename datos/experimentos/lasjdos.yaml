@@ -1,0 +1,33 @@
+id: lasjdos
+nombre: lasjdos
+reaccion: lasjdos
+descripcion: ''
+max_experimentos: 20
+capacidad_vaso_ml: 100.0
+supervisado: true
+paciencia: 0
+variables:
+- nombre: volumen_de_bureta_1
+  etiqueta: Volumen de Bureta 1
+  unidad: mL
+  minimo: 0.2
+  maximo: 25.0
+  paso: 0.1
+  origen: modulo
+  modulo: bureta_1
+  accion: dosificar_caudal
+  parametro: volumen
+objetivos: []
+restricciones: []
+protocolo:
+- tipo: accion
+  modulo: bureta_1
+  accion: dosificar_caudal
+  parametros:
+    volumen: $volumen_de_bureta_1
+  segundos: 0
+  mensaje: ''
+  variable: ''
+  objetivo: ''
+reactivos: {}
+registros: []

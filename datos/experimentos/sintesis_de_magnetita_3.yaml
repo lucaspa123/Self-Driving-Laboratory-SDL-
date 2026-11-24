@@ -1,0 +1,180 @@
+id: sintesis_de_magnetita_3
+nombre: sintesis de magnetita
+reaccion: sintesis_de_magnetita
+descripcion: ''
+max_experimentos: 50
+capacidad_vaso_ml: 600.0
+supervisado: true
+paciencia: 15
+variables:
+- nombre: volumen_de_bureta_1
+  etiqueta: Volumen de Bureta 1
+  unidad: mL
+  minimo: 11.2
+  maximo: 13.8
+  paso: 0.1
+  origen: modulo
+  modulo: bureta_1
+  accion: dosificar_caudal
+  parametro: volumen
+- nombre: caudal_de_bureta_1
+  etiqueta: Caudal de Bureta 1
+  unidad: mL/s
+  minimo: 2.474
+  maximo: 2.628
+  paso: 0.05
+  origen: modulo
+  modulo: bureta_1
+  accion: dosificar_caudal
+  parametro: caudal
+- nombre: ratio_fecl3_fecl2
+  etiqueta: ratio FeCl3:FeCl2
+  unidad: ''
+  minimo: 1.5
+  maximo: 2.2
+  paso: 0.1
+  origen: manual
+  modulo: ''
+  accion: ''
+  parametro: ''
+- nombre: volumen_de_agua
+  etiqueta: Volumen de Agua
+  unidad: mL
+  minimo: 180.0
+  maximo: 450.0
+  paso: 2.0
+  origen: manual
+  modulo: ''
+  accion: ''
+  parametro: ''
+- nombre: velocidad_de_agitador
+  etiqueta: Velocidad de Agitador
+  unidad: '%'
+  minimo: 20.0
+  maximo: 80.0
+  paso: 1.0
+  origen: modulo
+  modulo: agitador
+  accion: encender
+  parametro: velocidad
+- nombre: tiempo_de_reaccion
+  etiqueta: Tiempo de reacción 1
+  unidad: s
+  minimo: 20.0
+  maximo: 90.0
+  paso: 1.0
+  origen: tiempo
+  modulo: ''
+  accion: ''
+  parametro: ''
+- nombre: masa_de_acido_oleico
+  etiqueta: Masa de Acido Oleico
+  unidad: g
+  minimo: 2.0
+  maximo: 10.0
+  paso: 0.1
+  origen: manual
+  modulo: ''
+  accion: ''
+  parametro: ''
+- nombre: tiempo_de_reaccion_2
+  etiqueta: Tiempo de reacción 2
+  unidad: s
+  minimo: 10.0
+  maximo: 90.0
+  paso: 1.0
+  origen: tiempo
+  modulo: ''
+  accion: ''
+  parametro: ''
+objetivos:
+- nombre: valor_hsv_en_el_extremo_opuesto_donde_se_coloca_un_iman
+  etiqueta: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s
+  unidad: ''
+  direccion: maximizar
+  valor: null
+  tolerancia: null
+  meta: null
+  medicion: manual
+  modulo: ''
+  magnitud: ''
+restricciones: []
+protocolo:
+- tipo: ajuste_manual
+  modulo: ''
+  accion: ''
+  parametros: {}
+  segundos: 0
+  mensaje: ''
+  variable: volumen_de_agua
+  objetivo: ''
+- tipo: ajuste_manual
+  modulo: ''
+  accion: ''
+  parametros: {}
+  segundos: 0
+  mensaje: ''
+  variable: ratio_fecl3_fecl2
+  objetivo: ''
+- tipo: accion
+  modulo: agitador
+  accion: encender
+  parametros:
+    velocidad: $velocidad_de_agitador
+  segundos: 0
+  mensaje: ''
+  variable: ''
+  objetivo: ''
+- tipo: accion
+  modulo: bureta_1
+  accion: dosificar_caudal
+  parametros:
+    volumen: $volumen_de_bureta_1
+    caudal: $caudal_de_bureta_1
+  segundos: 0
+  mensaje: ''
+  variable: ''
+  objetivo: ''
+- tipo: esperar
+  modulo: ''
+  accion: ''
+  parametros: {}
+  segundos: $tiempo_de_reaccion
+  mensaje: ''
+  variable: ''
+  objetivo: ''
+- tipo: ajuste_manual
+  modulo: ''
+  accion: ''
+  parametros: {}
+  segundos: 0
+  mensaje: ''
+  variable: masa_de_acido_oleico
+  objetivo: ''
+- tipo: esperar
+  modulo: ''
+  accion: ''
+  parametros: {}
+  segundos: $tiempo_de_reaccion_2
+  mensaje: ''
+  variable: ''
+  objetivo: ''
+- tipo: confirmar
+  modulo: ''
+  accion: ''
+  parametros: {}
+  segundos: 0
+  mensaje: Ajustar pH a aproximadamente 6
+  variable: ''
+  objetivo: ''
+- tipo: medir
+  modulo: ''
+  accion: ''
+  parametros: {}
+  segundos: 0
+  mensaje: ''
+  variable: ''
+  objetivo: valor_hsv_en_el_extremo_opuesto_donde_se_coloca_un_iman
+reactivos:
+  bureta_1: NaOH
+registros: []

@@ -1,0 +1,47 @@
+conexion:
+  modo: esp32
+  puerto: COM3
+  aceleracion_simulacion: 20
+sistema:
+  pin_parada: null
+  pin_habilitar_dc: null
+  tiempo_latido_s: 5
+modulos:
+- id: bureta_1
+  tipo: bureta
+  etiqueta: Bureta 1
+  activo: true
+  config:
+    caudal_k: 0.202535
+    calibrada: true
+- id: bureta_2
+  tipo: bureta
+  etiqueta: Bureta 2
+  activo: false
+  config:
+    pin_servo: 14
+- id: bomba
+  tipo: bomba
+  etiqueta: Bomba peristáltica
+  activo: false
+  config: {}
+- id: agitador
+  tipo: agitador
+  etiqueta: Agitador
+  activo: true
+  config: {}
+- id: brazo
+  tipo: brazo
+  etiqueta: Brazo robótico
+  activo: false
+  config: {}
+- id: termometro
+  tipo: temperatura
+  etiqueta: Sensor de temperatura
+  activo: false
+  config: {}
+- id: camara
+  tipo: camara
+  etiqueta: Cámara
+  activo: false
+  config: {}

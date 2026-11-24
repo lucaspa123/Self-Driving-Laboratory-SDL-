@@ -1,0 +1,33 @@
+id: sintesis_de_magnetita_2
+nombre: Sintesis de Magnetita
+reaccion: sintesis_de_magnetita
+descripcion: ''
+max_experimentos: 50
+capacidad_vaso_ml: 600.0
+supervisado: true
+paciencia: 10
+variables:
+- nombre: volumen_de_bureta_1
+  etiqueta: Volumen de Bureta 1
+  unidad: mL
+  minimo: 11.2
+  maximo: 13.8
+  paso: 0.1
+  origen: modulo
+  modulo: bureta_1
+  accion: dosificar_caudal
+  parametro: volumen
+objetivos: []
+restricciones: []
+protocolo:
+- tipo: accion
+  modulo: bureta_1
+  accion: dosificar_caudal
+  parametros:
+    volumen: $volumen_de_bureta_1
+  segundos: 0
+  mensaje: ''
+  variable: ''
+  objetivo: ''
+reactivos: {}
+registros: []

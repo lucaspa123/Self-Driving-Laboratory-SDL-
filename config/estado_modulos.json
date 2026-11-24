@@ -1,0 +1,23 @@
+{
+ "bureta_1": {
+  "disponible_ml": null,
+  "servo_cerrado": false,
+  "servo_ciclos": 0
+ },
+ "bureta_2": {
+  "disponible_ml": 22.475
+ },
+ "bomba": {},
+ "agitador": {
+  "velocidad": 0
+ },
+ "brazo": {
+  "referenciado": false
+ },
+ "termometro": {
+  "ultima": 25.15
+ },
+ "agitador_nema17": {
+  "velocidad": 20.0
+ }
+}

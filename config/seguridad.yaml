@@ -1,0 +1,37 @@
+tiempo_espera_usuario_s: 900
+llenado_maximo: 0.8
+lista_previa:
+- Tengo puestos antiparras, guantes y guardapolvo.
+- Los reactivos cargados son los indicados y están rotulados.
+- El vaso de reacción está limpio, vacío y en su lugar.
+- La zona de movimiento del brazo está despejada.
+- Tengo al alcance el botón de parada de emergencia.
+- La ventilación es la adecuada para esta reacción.
+incompatibilidades:
+- - hipoclorito|lavandina
+  - acido|hcl|h2so4|hno3
+  - libera cloro gaseoso
+- - hipoclorito|lavandina
+  - amoniaco|nh3|amonio
+  - forma cloraminas tóxicas
+- - acido nitrico|hno3
+  - etanol|metanol|acetona|alcohol|glicerina
+  - reacción violenta
+- - peroxido|h2o2|agua oxigenada
+  - acetona
+  - puede formar peróxidos explosivos
+- - cianuro|kcn|nacn
+  - acido|hcl|h2so4|hno3
+  - libera cianuro de hidrógeno
+- - azida|nan3
+  - acido|hcl|h2so4|hno3
+  - libera ácido hidrazoico
+- - sulfuro|na2s
+  - acido|hcl|h2so4|hno3
+  - libera sulfuro de hidrógeno
+- - permanganato|kmno4
+  - glicerina|glicerol|etanol|acido sulfurico
+  - riesgo de ignición
+- - sodio metalico|potasio metalico|hidruro
+  - agua|acuos
+  - libera hidrógeno y puede encenderse

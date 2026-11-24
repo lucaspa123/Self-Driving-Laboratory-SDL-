@@ -1,0 +1,91 @@
+id: lkjfd
+nombre: lkjfd
+reaccion: lkjfd
+descripcion: ''
+max_experimentos: 20
+capacidad_vaso_ml: 600.0
+supervisado: true
+paciencia: 10
+variables:
+- nombre: volumen_de_bureta_1
+  etiqueta: Volumen de Bureta 1
+  unidad: mL
+  minimo: 2.0
+  maximo: 5.0
+  paso: 0.1
+  origen: modulo
+  modulo: bureta_1
+  accion: dosificar_caudal
+  parametro: volumen
+- nombre: caudal_de_bureta_1
+  etiqueta: Caudal de Bureta 1
+  unidad: mL/s
+  minimo: 1.763
+  maximo: 3.408
+  paso: 0.0
+  origen: modulo
+  modulo: bureta_1
+  accion: dosificar_caudal
+  parametro: caudal
+- nombre: velocidad_de_agitador_nema17
+  etiqueta: Velocidad de Agitador (NEMA17)
+  unidad: rpm
+  minimo: 30.0
+  maximo: 40.0
+  paso: 2.0
+  origen: modulo
+  modulo: agitador_nema17
+  accion: encender
+  parametro: velocidad
+objetivos:
+- nombre: rendimiento
+  etiqueta: rendimiento
+  unidad: ''
+  direccion: maximizar
+  valor: null
+  tolerancia: null
+  meta: null
+  medicion: manual
+  modulo: ''
+  magnitud: ''
+restricciones:
+- volumen_de_bureta_1/caudal_de_bureta_1<20
+protocolo:
+- tipo: accion
+  modulo: agitador_nema17
+  accion: encender
+  parametros:
+    velocidad: $velocidad_de_agitador_nema17
+  segundos: 0
+  mensaje: ''
+  variable: ''
+  objetivo: ''
+- tipo: accion
+  modulo: bureta_1
+  accion: dosificar_caudal
+  parametros:
+    volumen: $volumen_de_bureta_1
+    caudal: $caudal_de_bureta_1
+  segundos: 0
+  mensaje: ''
+  variable: ''
+  objetivo: ''
+- tipo: accion
+  modulo: agitador_nema17
+  accion: apagar
+  parametros: {}
+  segundos: 0
+  mensaje: ''
+  variable: ''
+  objetivo: ''
+- tipo: medir
+  modulo: ''
+  accion: ''
+  parametros: {}
+  segundos: 0
+  mensaje: ''
+  variable: ''
+  objetivo: rendimiento
+reactivos:
+  bureta_1: agua
+registros: []

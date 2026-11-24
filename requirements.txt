@@ -1,0 +1,11 @@
+# Librerías que usa el programa de la PC (Python 3.10 o más nuevo)
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.3
+pyyaml>=6.0
+pyserial>=3.5
+nicegui>=4.0,<5
+matplotlib>=3.8
+reportlab>=4.0
+# Opcional, solo si se activa el módulo de cámara:
+# opencv-python

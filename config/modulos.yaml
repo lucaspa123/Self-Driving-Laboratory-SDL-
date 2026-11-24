@@ -1,0 +1,68 @@
+conexion:
+  modo: esp32
+  puerto: COM3
+  aceleracion_simulacion: 20
+sistema:
+  pin_parada: null
+  pin_habilitar_dc: null
+  tiempo_latido_s: 5
+modulos:
+- id: bureta_1
+  tipo: bureta
+  etiqueta: Bureta 1
+  activo: true
+  config:
+    caudal_habitual: 2.525
+    caudal_k: 0.162066
+    aperturas:
+    - - 80.0
+      - 0.112732
+    - - 75.0
+      - 0.149639
+    - - 50.0
+      - 0.001816
+    calibrada: true
+    angulo_cerrado: 25
+    servo_continuo: true
+    servo_sentido: -1
+- id: bureta_2
+  tipo: bureta
+  etiqueta: Bureta 2
+  activo: false
+  config:
+    caudal_habitual: 2.525
+    caudal_k: 0.124941
+    calibrada: true
+    pin_servo: 14
+- id: bomba
+  tipo: bomba
+  etiqueta: Bomba peristáltica
+  activo: false
+  config: {}
+- id: agitador
+  tipo: agitador
+  etiqueta: Agitador
+  activo: false
+  config: {}
+- id: brazo
+  tipo: brazo
+  etiqueta: Brazo robótico
+  activo: false
+  config: {}
+- id: termometro
+  tipo: temperatura
+  etiqueta: Sensor de temperatura
+  activo: false
+  config: {}
+- id: camara
+  tipo: camara
+  etiqueta: Cámara
+  activo: false
+  config: {}
+- id: agitador_nema17
+  tipo: agitador_nema17
+  etiqueta: Agitador (NEMA17)
+  activo: true
+  config:
+    rpm_min: 20
+    rpm_max: 39

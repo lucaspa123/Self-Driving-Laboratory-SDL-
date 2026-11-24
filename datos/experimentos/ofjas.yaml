@@ -1,0 +1,71 @@
+id: ofjas
+nombre: ofjas
+reaccion: ofjas
+descripcion: ''
+max_experimentos: 20
+capacidad_vaso_ml: 600.0
+supervisado: true
+paciencia: 0
+variables:
+- nombre: volumen_de_bureta_1
+  etiqueta: Volumen de Bureta 1
+  unidad: mL
+  minimo: 1.0
+  maximo: 5.0
+  paso: 0.1
+  origen: modulo
+  modulo: bureta_1
+  accion: dosificar_caudal
+  parametro: volumen
+- nombre: velocidad_de_agitador_nema17
+  etiqueta: Velocidad de Agitador (NEMA17)
+  unidad: rpm
+  minimo: 20.0
+  maximo: 39.0
+  paso: 5.0
+  origen: modulo
+  modulo: agitador_nema17
+  accion: encender
+  parametro: velocidad
+objetivos:
+- nombre: rendimiento
+  etiqueta: rendimiento
+  unidad: ''
+  direccion: maximizar
+  valor: null
+  tolerancia: null
+  meta: null
+  medicion: manual
+  modulo: ''
+  magnitud: ''
+restricciones:
+- volumen_de_bureta_1/caudal_de_bureta_1>0.8
+protocolo:
+- tipo: accion
+  modulo: agitador_nema17
+  accion: apagar
+  parametros: {}
+  segundos: 0
+  mensaje: ''
+  variable: ''
+  objetivo: ''
+- tipo: medir
+  modulo: ''
+  accion: ''
+  parametros: {}
+  segundos: 0
+  mensaje: ''
+  variable: ''
+  objetivo: rendimiento
+- tipo: accion
+  modulo: bureta_1
+  accion: dosificar_caudal
+  parametros:
+    volumen: $volumen_de_bureta_1
+    caudal: 0.5
+  segundos: 0
+  mensaje: ''
+  variable: ''
+  objetivo: ''
+reactivos: {}
+registros: []

@@ -1,0 +1,164 @@
+id: ejemplo_magnetita
+nombre: 'Ejemplo: síntesis de magnetita'
+reaccion: ejemplo_magnetita
+descripcion: 'Ejemplo para practicar en modo simulación. Coprecipitación de magnetita:
+  se dosifica la solución de hierro y el NaOH con agitación y se mide el rendimiento
+  y el pH final.'
+max_experimentos: 15
+capacidad_vaso_ml: 100.0
+supervisado: true
+paciencia: 0
+variables:
+- nombre: vol_fe
+  etiqueta: Volumen de solución de Fe
+  unidad: mL
+  minimo: 5.0
+  maximo: 30.0
+  paso: 0.5
+  origen: modulo
+  modulo: bomba
+  accion: bombear
+  parametro: volumen
+- nombre: vol_naoh
+  etiqueta: Volumen de NaOH
+  unidad: mL
+  minimo: 2.0
+  maximo: 20.0
+  paso: 0.1
+  origen: modulo
+  modulo: bureta_1
+  accion: dosificar
+  parametro: volumen
+- nombre: velocidad
+  etiqueta: Velocidad de agitación
+  unidad: '%'
+  minimo: 20.0
+  maximo: 80.0
+  paso: 1.0
+  origen: modulo
+  modulo: agitador
+  accion: encender
+  parametro: velocidad
+- nombre: tiempo
+  etiqueta: Tiempo de reacción
+  unidad: s
+  minimo: 20.0
+  maximo: 120.0
+  paso: 5.0
+  origen: tiempo
+  modulo: ''
+  accion: ''
+  parametro: ''
+- nombre: temperatura
+  etiqueta: Temperatura de la placa
+  unidad: °C
+  minimo: 25.0
+  maximo: 60.0
+  paso: 5.0
+  origen: manual
+  modulo: ''
+  accion: ''
+  parametro: ''
+objetivos:
+- nombre: rendimiento
+  etiqueta: Rendimiento
+  unidad: '%'
+  direccion: maximizar
+  valor: null
+  tolerancia: null
+  meta: 85.0
+  medicion: manual
+  modulo: ''
+  magnitud: ''
+- nombre: ph_final
+  etiqueta: pH final
+  unidad: ''
+  direccion: alcanzar
+  valor: 10.0
+  tolerancia: 0.5
+  meta: null
+  medicion: manual
+  modulo: ''
+  magnitud: ''
+restricciones:
+- vol_fe + vol_naoh <= 45
+protocolo:
+- tipo: confirmar
+  modulo: ''
+  accion: ''
+  parametros: {}
+  segundos: 0
+  mensaje: Coloque un vaso limpio y vacío en la posición de reacción.
+  variable: ''
+  objetivo: ''
+- tipo: ajuste_manual
+  modulo: ''
+  accion: ''
+  parametros: {}
+  segundos: 0
+  mensaje: ''
+  variable: temperatura
+  objetivo: ''
+- tipo: accion
+  modulo: bomba
+  accion: bombear
+  parametros:
+    volumen: $vol_fe
+  segundos: 0
+  mensaje: ''
+  variable: ''
+  objetivo: ''
+- tipo: accion
+  modulo: agitador
+  accion: encender
+  parametros:
+    velocidad: $velocidad
+  segundos: 0
+  mensaje: ''
+  variable: ''
+  objetivo: ''
+- tipo: accion
+  modulo: bureta_1
+  accion: dosificar
+  parametros:
+    volumen: $vol_naoh
+  segundos: 0
+  mensaje: ''
+  variable: ''
+  objetivo: ''
+- tipo: esperar
+  modulo: ''
+  accion: ''
+  parametros: {}
+  segundos: $tiempo
+  mensaje: ''
+  variable: ''
+  objetivo: ''
+- tipo: accion
+  modulo: agitador
+  accion: apagar
+  parametros: {}
+  segundos: 0
+  mensaje: ''
+  variable: ''
+  objetivo: ''
+- tipo: medir
+  modulo: ''
+  accion: ''
+  parametros: {}
+  segundos: 0
+  mensaje: ''
+  variable: ''
+  objetivo: rendimiento
+- tipo: medir
+  modulo: ''
+  accion: ''
+  parametros: {}
+  segundos: 0
+  mensaje: ''
+  variable: ''
+  objetivo: ph_final
+reactivos:
+  bomba: Solución de Fe(II)/Fe(III)
+  bureta_1: NaOH 1 M
+registros: []

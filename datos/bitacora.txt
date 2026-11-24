@@ -1,0 +1,1319 @@
+2026-11-19 11:40:05 [INFO ] ESP32> 91025
+2026-11-19 11:40:05 [INFO ] ESP32> Build:Oct 25 2019
+2026-11-19 11:40:05 [INFO ] ESP32> rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+2026-11-19 11:40:05 [INFO ] ESP32> SPIWP:0xee
+2026-11-19 11:40:05 [INFO ] ESP32> mode:DIO, clock div:1
+2026-11-19 11:40:05 [INFO ] ESP32> load:0x3ffe5110,len:0xe3c
+2026-11-19 11:40:05 [INFO ] ESP32> load:0x4004a000,len:0x8ec
+2026-11-19 11:40:05 [INFO ] ESP32> load:0x4004e000,len:0x3180
+2026-11-19 11:40:05 [INFO ] ESP32> entry 0x4004a130
+2026-11-19 11:40:25 [INFO ] Se perdió la conexión con el ESP32: ClearCommError failed (PermissionError(13, 'Access is denied.', None, 5))
+2026-11-19 11:41:38 [INFO ] ESP32> 191025
+2026-11-19 11:41:38 [INFO ] ESP32> Build:Oct 25 2019
+2026-11-19 11:41:38 [INFO ] ESP32> rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+2026-11-19 11:41:38 [INFO ] ESP32> SPIWP:0xee
+2026-11-19 11:41:38 [INFO ] ESP32> mode:DIO, clock div:1
+2026-11-19 11:41:38 [INFO ] ESP32> load:0x3ffe5110,len:0xe3c
+2026-11-19 11:41:38 [INFO ] ESP32> load:0x4004a000,len:0x8ec
+2026-11-19 11:41:38 [INFO ] ESP32> load:0x4004e000,len:0x3180
+2026-11-19 11:41:38 [INFO ] ESP32> entry 0x4004a130
+2026-11-19 11:41:57 [INFO ] Se perdió la conexión con el ESP32: ClearCommError failed (PermissionError(13, 'Access is denied.', None, 5))
+2026-11-19 11:45:23 [INFO ] ESP32> 20191025
+2026-11-19 11:45:23 [INFO ] ESP32> Build:Oct 25 2019
+2026-11-19 11:45:23 [INFO ] ESP32> rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+2026-11-19 11:45:23 [INFO ] ESP32> SPIWP:0xee
+2026-11-19 11:45:23 [INFO ] ESP32> mode:DIO, clock div:1
+2026-11-19 11:45:23 [INFO ] ESP32> load:0x3ffe5110,len:0xe3c
+2026-11-19 11:45:23 [INFO ] ESP32> load:0x4004a000,len:0x8ec
+2026-11-19 11:45:23 [INFO ] ESP32> load:0x4004e000,len:0x3180
+2026-11-19 11:45:23 [INFO ] ESP32> entry 0x4004a130
+2026-11-19 11:45:33 [INFO ] Se perdió la conexión con el ESP32: ReadFile failed (OSError(9, 'The handle is invalid.', None, 6))
+2026-11-19 11:53:30 [INFO ] ESP32> 91025
+2026-11-19 11:53:30 [INFO ] ESP32> Build:Oct 25 2019
+2026-11-19 11:53:30 [INFO ] ESP32> rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+2026-11-19 11:53:30 [INFO ] ESP32> SPIWP:0xee
+2026-11-19 11:53:30 [INFO ] ESP32> mode:DIO, clock div:1
+2026-11-19 11:53:30 [INFO ] ESP32> load:0x3ffe5110,len:0xe3c
+2026-11-19 11:53:30 [INFO ] ESP32> load:0x4004a000,len:0x8ec
+2026-11-19 11:53:30 [INFO ] ESP32> load:0x4004e000,len:0x3180
+2026-11-19 11:53:30 [INFO ] ESP32> entry 0x4004a130
+2026-11-19 11:54:52 [INFO ] Se perdió la conexión con el ESP32: ClearCommError failed (PermissionError(13, 'Access is denied.', None, 5))
+2026-11-19 12:33:10 [INFO ] ESP32> 191025
+2026-11-19 12:33:10 [INFO ] ESP32> Build:Oct 25 2019
+2026-11-19 12:33:10 [INFO ] ESP32> rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+2026-11-19 12:33:10 [INFO ] ESP32> SPIWP:0xee
+2026-11-19 12:33:10 [INFO ] ESP32> mode:DIO, clock div:1
+2026-11-19 12:33:10 [INFO ] ESP32> load:0x3ffe5110,len:0xe3c
+2026-11-19 12:33:10 [INFO ] ESP32> load:0x4004a000,len:0x8ec
+2026-11-19 12:33:10 [INFO ] ESP32> load:0x4004e000,len:0x3180
+2026-11-19 12:33:10 [INFO ] ESP32> entry 0x4004a130
+2026-11-19 12:40:21 [INFO ] Evento del ESP32: {'ev': 'aviso', 'texto': 'bureta_1: robinete cerrado por tiempo maximo'}
+2026-11-19 12:40:21 [AVISO] Aviso del ESP32: bureta_1: robinete cerrado por tiempo maximo
+2026-11-19 12:44:10 [INFO ] Evento del ESP32: {'ev': 'aviso', 'texto': 'bureta_1: robinete cerrado por tiempo maximo'}
+2026-11-19 12:44:10 [AVISO] Aviso del ESP32: bureta_1: robinete cerrado por tiempo maximo
+2026-11-19 12:53:53 [INFO ] Se perdió la conexión con el ESP32: ClearCommError failed (PermissionError(13, 'Access is denied.', None, 5))
+2026-11-19 21:50:44 [INFO ] Lista previa confirmada por el usuario: Bureta 1 está cargada con: NaOH. | Tengo puestos antiparras, guantes y guardapolvo. | Los reactivos cargados son los indicados y están rotulados. | El vaso de reacción está limpio, vacío y en su lugar. | La zona de movimiento del brazo está despejada. | Tengo al alcance el botón de parada de emergencia. | La ventilación es la adecuada para esta reacción.
+2026-11-19 21:50:44 [INFO ] === Inicio de campaña «sintesis de magnetita» (Simulación (sin hardware)) ===
+2026-11-19 21:50:44 [INFO ] Esperando al usuario: Preparación: Bureta 1.
+2026-11-19 21:50:53 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 21:50:53 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 13,7 mL, Caudal de Bureta 1 = 2,624 mL/s, ratio FeCl3:FeCl2 = 1,8, Volumen de Agua = 402 mL, Velocidad de Agitador = 72 %, Tiempo de reacción 1 = 21 s, Masa de Acido Oleico = 9,4 g, Tiempo de reacción 2 = 89 s
+2026-11-19 21:50:53 [INFO ] Esperando al usuario: Experimento 1 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 21:51:43 [INFO ] --- Experimento 3 (n.º 1 de la campaña) ---
+2026-11-19 21:51:43 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 402 mL
+2026-11-19 21:51:43 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:51:46 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 1,8
+2026-11-19 21:51:46 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:51:48 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 72 %
+2026-11-19 21:51:48 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 13,7 mL, caudal 2,624 mL/s
+2026-11-19 21:51:48 [INFO ]          Bureta 1: robinete al 100 % durante 6.2 s (caudal medio 2.214 mL/s).
+2026-11-19 21:51:48 [INFO ] Paso 5: Esperar 21 s
+2026-11-19 21:51:49 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 9,4 g
+2026-11-19 21:51:49 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:51:51 [INFO ] Paso 7: Esperar 89 s
+2026-11-19 21:51:55 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 21:51:55 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 21:51:58 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 21:52:07 [AVISO] Paso 9: el usuario indicó que la reacción no ocurrió.
+2026-11-19 21:52:07 [AVISO] Experimento 3: la reacción no ocurrió. Se penaliza esa zona.
+2026-11-19 21:52:07 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 13,7 mL, Caudal de Bureta 1 = 2,524 mL/s, ratio FeCl3:FeCl2 = 2,2, Volumen de Agua = 222 mL, Velocidad de Agitador = 50 %, Tiempo de reacción 1 = 90 s, Masa de Acido Oleico = 9 g, Tiempo de reacción 2 = 90 s
+2026-11-19 21:52:07 [INFO ] Esperando al usuario: Experimento 2 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 21:52:51 [INFO ] --- Experimento 4 (n.º 2 de la campaña) ---
+2026-11-19 21:52:51 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 222 mL
+2026-11-19 21:52:51 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:52:53 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,2
+2026-11-19 21:52:53 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:52:54 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 50 %
+2026-11-19 21:52:54 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 13,7 mL, caudal 2,524 mL/s
+2026-11-19 21:52:54 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 21:52:56 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 21:52:57 [INFO ]          Bureta 1: robinete al 75 % durante 6.3 s (caudal medio 2.172 mL/s).
+2026-11-19 21:52:57 [INFO ] Paso 5: Esperar 90 s
+2026-11-19 21:53:01 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 9 g
+2026-11-19 21:53:01 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:53:03 [INFO ] Paso 7: Esperar 90 s
+2026-11-19 21:53:07 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 21:53:07 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 21:53:09 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 21:53:16 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 61,35
+2026-11-19 21:53:16 [INFO ] Experimento 4 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 61,35
+2026-11-19 21:53:16 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 13,8 mL, Caudal de Bureta 1 = 2,574 mL/s, ratio FeCl3:FeCl2 = 1,6, Volumen de Agua = 180 mL, Velocidad de Agitador = 22 %, Tiempo de reacción 1 = 72 s, Masa de Acido Oleico = 9 g, Tiempo de reacción 2 = 18 s
+2026-11-19 21:53:16 [INFO ] Esperando al usuario: Experimento 3 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 21:53:54 [INFO ] --- Experimento 5 (n.º 3 de la campaña) ---
+2026-11-19 21:53:54 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 180 mL
+2026-11-19 21:53:54 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:53:55 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 1,6
+2026-11-19 21:53:55 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:53:56 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 22 %
+2026-11-19 21:53:56 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 13,8 mL, caudal 2,574 mL/s
+2026-11-19 21:53:56 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 21:53:57 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 21:53:57 [INFO ]          Bureta 1: robinete al 99 % durante 6.2 s (caudal medio 2.211 mL/s).
+2026-11-19 21:53:57 [INFO ] Paso 5: Esperar 72 s
+2026-11-19 21:54:01 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 9 g
+2026-11-19 21:54:01 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:54:05 [INFO ] Paso 7: Esperar 18 s
+2026-11-19 21:54:06 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 21:54:06 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 21:54:08 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 21:54:12 [AVISO] Paso 9: el usuario indicó que la reacción no ocurrió.
+2026-11-19 21:54:12 [AVISO] Experimento 5: la reacción no ocurrió. Se penaliza esa zona.
+2026-11-19 21:54:12 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 13,2 mL, Caudal de Bureta 1 = 2,624 mL/s, ratio FeCl3:FeCl2 = 2,1, Volumen de Agua = 232 mL, Velocidad de Agitador = 21 %, Tiempo de reacción 1 = 33 s, Masa de Acido Oleico = 3,1 g, Tiempo de reacción 2 = 72 s
+2026-11-19 21:54:12 [INFO ] Esperando al usuario: Experimento 4 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 21:55:08 [INFO ] --- Experimento 6 (n.º 4 de la campaña) ---
+2026-11-19 21:55:08 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 232 mL
+2026-11-19 21:55:08 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:55:09 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,1
+2026-11-19 21:55:09 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:55:10 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 21 %
+2026-11-19 21:55:10 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 13,2 mL, caudal 2,624 mL/s
+2026-11-19 21:55:10 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 21:55:11 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 21:55:11 [INFO ]          Bureta 1: robinete al 100 % durante 5.9 s (caudal medio 2.225 mL/s).
+2026-11-19 21:55:11 [INFO ] Paso 5: Esperar 33 s
+2026-11-19 21:55:13 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 3,1 g
+2026-11-19 21:55:13 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:55:17 [INFO ] Paso 7: Esperar 72 s
+2026-11-19 21:55:21 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 21:55:21 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 21:55:22 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 21:55:26 [AVISO] Paso 9: el usuario indicó que la reacción no ocurrió.
+2026-11-19 21:55:26 [AVISO] Experimento 6: la reacción no ocurrió. Se penaliza esa zona.
+2026-11-19 21:55:26 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 11,2 mL, Caudal de Bureta 1 = 2,624 mL/s, ratio FeCl3:FeCl2 = 2,1, Volumen de Agua = 412 mL, Velocidad de Agitador = 62 %, Tiempo de reacción 1 = 85 s, Masa de Acido Oleico = 8,9 g, Tiempo de reacción 2 = 76 s
+2026-11-19 21:55:26 [INFO ] Esperando al usuario: Experimento 5 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 21:56:02 [INFO ] --- Experimento 7 (n.º 5 de la campaña) ---
+2026-11-19 21:56:02 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 412 mL
+2026-11-19 21:56:02 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:56:04 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,1
+2026-11-19 21:56:04 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:56:06 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 62 %
+2026-11-19 21:56:06 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,2 mL, caudal 2,624 mL/s
+2026-11-19 21:56:06 [INFO ]          Bureta 1: robinete al 100 % durante 7.0 s (caudal medio 1.608 mL/s).
+2026-11-19 21:56:06 [INFO ] Paso 5: Esperar 85 s
+2026-11-19 21:56:11 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 8,9 g
+2026-11-19 21:56:11 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:56:12 [INFO ] Paso 7: Esperar 76 s
+2026-11-19 21:56:16 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 21:56:16 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 21:56:18 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 21:56:25 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 60,84
+2026-11-19 21:56:25 [INFO ] Experimento 7 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 60,84
+2026-11-19 21:56:25 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 13,8 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2,2, Volumen de Agua = 446 mL, Velocidad de Agitador = 69 %, Tiempo de reacción 1 = 25 s, Masa de Acido Oleico = 7,5 g, Tiempo de reacción 2 = 20 s
+2026-11-19 21:56:25 [INFO ] Esperando al usuario: Experimento 6 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 21:57:05 [INFO ] --- Experimento 8 (n.º 6 de la campaña) ---
+2026-11-19 21:57:05 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 446 mL
+2026-11-19 21:57:05 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:57:07 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,2
+2026-11-19 21:57:07 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:57:14 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 69 %
+2026-11-19 21:57:14 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 13,8 mL, caudal 2,474 mL/s
+2026-11-19 21:57:14 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 21:57:16 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 21:57:16 [INFO ]          Bureta 1: robinete al 75 % durante 6.4 s (caudal medio 2.170 mL/s).
+2026-11-19 21:57:16 [INFO ] Paso 5: Esperar 25 s
+2026-11-19 21:57:18 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 7,5 g
+2026-11-19 21:57:18 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:57:22 [INFO ] Paso 7: Esperar 20 s
+2026-11-19 21:57:23 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 21:57:23 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 21:57:25 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 21:57:33 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 86,42
+2026-11-19 21:57:33 [INFO ] Experimento 8 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 86,42
+2026-11-19 21:57:33 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 11,6 mL, Caudal de Bureta 1 = 2,624 mL/s, ratio FeCl3:FeCl2 = 1,5, Volumen de Agua = 204 mL, Velocidad de Agitador = 76 %, Tiempo de reacción 1 = 74 s, Masa de Acido Oleico = 2,7 g, Tiempo de reacción 2 = 83 s
+2026-11-19 21:57:33 [INFO ] Esperando al usuario: Experimento 7 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 21:58:29 [INFO ] --- Experimento 9 (n.º 7 de la campaña) ---
+2026-11-19 21:58:29 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 204 mL
+2026-11-19 21:58:29 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:58:30 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 1,5
+2026-11-19 21:58:30 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:58:31 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 76 %
+2026-11-19 21:58:31 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,6 mL, caudal 2,624 mL/s
+2026-11-19 21:58:31 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 21:58:32 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 21:58:33 [INFO ]          Bureta 1: robinete al 100 % durante 5.1 s (caudal medio 2.255 mL/s).
+2026-11-19 21:58:33 [INFO ] Paso 5: Esperar 74 s
+2026-11-19 21:58:36 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 2,7 g
+2026-11-19 21:58:36 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:58:38 [INFO ] Paso 7: Esperar 83 s
+2026-11-19 21:58:42 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 21:58:42 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 21:58:44 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 21:58:50 [AVISO] Paso 9: el usuario indicó que la reacción no ocurrió.
+2026-11-19 21:58:50 [AVISO] Experimento 9: la reacción no ocurrió. Se penaliza esa zona.
+2026-11-19 21:58:50 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 12,4 mL, Caudal de Bureta 1 = 2,624 mL/s, ratio FeCl3:FeCl2 = 2,1, Volumen de Agua = 228 mL, Velocidad de Agitador = 78 %, Tiempo de reacción 1 = 32 s, Masa de Acido Oleico = 8 g, Tiempo de reacción 2 = 21 s
+2026-11-19 21:58:50 [INFO ] Esperando al usuario: Experimento 8 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 21:59:25 [INFO ] --- Experimento 10 (n.º 8 de la campaña) ---
+2026-11-19 21:59:25 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 228 mL
+2026-11-19 21:59:25 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:59:26 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,1
+2026-11-19 21:59:26 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:59:27 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 78 %
+2026-11-19 21:59:27 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 12,4 mL, caudal 2,624 mL/s
+2026-11-19 21:59:28 [INFO ]          Bureta 1: robinete al 100 % durante 7.5 s (caudal medio 1.664 mL/s).
+2026-11-19 21:59:28 [INFO ] Paso 5: Esperar 32 s
+2026-11-19 21:59:29 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 8 g
+2026-11-19 21:59:29 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 21:59:31 [INFO ] Paso 7: Esperar 21 s
+2026-11-19 21:59:32 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 21:59:32 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 21:59:33 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 21:59:39 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 61,01
+2026-11-19 21:59:39 [INFO ] Experimento 10 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 61,01
+2026-11-19 21:59:40 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 13,4 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 1,6, Volumen de Agua = 332 mL, Velocidad de Agitador = 76 %, Tiempo de reacción 1 = 79 s, Masa de Acido Oleico = 3,2 g, Tiempo de reacción 2 = 88 s
+2026-11-19 21:59:40 [INFO ] Esperando al usuario: Experimento 9 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:00:48 [INFO ] --- Experimento 11 (n.º 9 de la campaña) ---
+2026-11-19 22:00:48 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 332 mL
+2026-11-19 22:00:48 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:00:50 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 1,6
+2026-11-19 22:00:50 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:00:51 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 76 %
+2026-11-19 22:00:51 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 13,4 mL, caudal 2,474 mL/s
+2026-11-19 22:00:51 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 22:00:52 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 22:00:53 [INFO ]          Bureta 1: robinete al 75 % durante 6.2 s (caudal medio 2.178 mL/s).
+2026-11-19 22:00:53 [INFO ] Paso 5: Esperar 79 s
+2026-11-19 22:00:57 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 3,2 g
+2026-11-19 22:00:57 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:00:58 [INFO ] Paso 7: Esperar 88 s
+2026-11-19 22:01:03 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:01:03 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:01:04 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:01:12 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 81,59
+2026-11-19 22:01:12 [INFO ] Experimento 11 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 81,59
+2026-11-19 22:01:12 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 11,6 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2,1, Volumen de Agua = 204 mL, Velocidad de Agitador = 69 %, Tiempo de reacción 1 = 86 s, Masa de Acido Oleico = 3,5 g, Tiempo de reacción 2 = 14 s
+2026-11-19 22:01:12 [INFO ] Esperando al usuario: Experimento 10 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:01:56 [INFO ] --- Experimento 12 (n.º 10 de la campaña) ---
+2026-11-19 22:01:56 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 204 mL
+2026-11-19 22:01:56 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:01:56 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,1
+2026-11-19 22:01:56 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:01:57 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 69 %
+2026-11-19 22:01:57 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,6 mL, caudal 2,474 mL/s
+2026-11-19 22:01:57 [INFO ]          Bureta 1: robinete al 75 % durante 7.5 s (caudal medio 1.550 mL/s).
+2026-11-19 22:01:57 [INFO ] Paso 5: Esperar 86 s
+2026-11-19 22:02:02 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 3,5 g
+2026-11-19 22:02:02 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:02:03 [INFO ] Paso 7: Esperar 14 s
+2026-11-19 22:02:03 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:02:03 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:02:04 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:02:11 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 79,06
+2026-11-19 22:02:11 [INFO ] Experimento 12 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 79,06
+2026-11-19 22:02:12 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 11,4 mL, Caudal de Bureta 1 = 2,574 mL/s, ratio FeCl3:FeCl2 = 2,2, Volumen de Agua = 438 mL, Velocidad de Agitador = 74 %, Tiempo de reacción 1 = 20 s, Masa de Acido Oleico = 3,2 g, Tiempo de reacción 2 = 64 s
+2026-11-19 22:02:12 [INFO ] Esperando al usuario: Experimento 11 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:02:46 [INFO ] --- Experimento 13 (n.º 11 de la campaña) ---
+2026-11-19 22:02:46 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 438 mL
+2026-11-19 22:02:46 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:02:47 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,2
+2026-11-19 22:02:47 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:02:48 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 74 %
+2026-11-19 22:02:48 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,4 mL, caudal 2,574 mL/s
+2026-11-19 22:02:48 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 22:02:49 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 22:02:49 [INFO ]          Bureta 1: robinete al 99 % durante 5.1 s (caudal medio 2.256 mL/s).
+2026-11-19 22:02:49 [INFO ] Paso 5: Esperar 20 s
+2026-11-19 22:02:50 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 3,2 g
+2026-11-19 22:02:50 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:02:52 [INFO ] Paso 7: Esperar 64 s
+2026-11-19 22:02:55 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:02:55 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:02:56 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:03:02 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 80,28
+2026-11-19 22:03:02 [INFO ] Experimento 13 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 80,28
+2026-11-19 22:03:02 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 13 mL, Caudal de Bureta 1 = 2,624 mL/s, ratio FeCl3:FeCl2 = 2, Volumen de Agua = 426 mL, Velocidad de Agitador = 24 %, Tiempo de reacción 1 = 40 s, Masa de Acido Oleico = 9,2 g, Tiempo de reacción 2 = 25 s
+2026-11-19 22:03:02 [INFO ] Esperando al usuario: Experimento 12 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:03:42 [INFO ] --- Experimento 14 (n.º 12 de la campaña) ---
+2026-11-19 22:03:42 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 426 mL
+2026-11-19 22:03:42 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:03:43 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2
+2026-11-19 22:03:43 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:03:45 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 24 %
+2026-11-19 22:03:45 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 13 mL, caudal 2,624 mL/s
+2026-11-19 22:03:46 [INFO ]          Bureta 1: robinete al 100 % durante 7.9 s (caudal medio 1.656 mL/s).
+2026-11-19 22:03:46 [INFO ] Paso 5: Esperar 40 s
+2026-11-19 22:03:48 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 9,2 g
+2026-11-19 22:03:48 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:03:49 [INFO ] Paso 7: Esperar 25 s
+2026-11-19 22:03:50 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:03:50 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:03:52 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:03:56 [AVISO] Paso 9: el usuario indicó que la reacción no ocurrió.
+2026-11-19 22:03:56 [AVISO] Experimento 14: la reacción no ocurrió. Se penaliza esa zona.
+2026-11-19 22:03:56 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 13,7 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 1,5, Volumen de Agua = 214 mL, Velocidad de Agitador = 77 %, Tiempo de reacción 1 = 26 s, Masa de Acido Oleico = 9,8 g, Tiempo de reacción 2 = 20 s
+2026-11-19 22:03:56 [INFO ] Esperando al usuario: Experimento 13 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:04:33 [INFO ] --- Experimento 15 (n.º 13 de la campaña) ---
+2026-11-19 22:04:33 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 214 mL
+2026-11-19 22:04:33 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:04:34 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 1,5
+2026-11-19 22:04:34 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:04:35 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 77 %
+2026-11-19 22:04:35 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 13,7 mL, caudal 2,474 mL/s
+2026-11-19 22:04:35 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 22:04:36 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 22:04:36 [INFO ]          Bureta 1: robinete al 75 % durante 6.3 s (caudal medio 2.172 mL/s).
+2026-11-19 22:04:36 [INFO ] Paso 5: Esperar 26 s
+2026-11-19 22:04:37 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 9,8 g
+2026-11-19 22:04:37 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:04:42 [INFO ] Paso 7: Esperar 20 s
+2026-11-19 22:04:43 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:04:43 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:04:43 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:04:51 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 70,33
+2026-11-19 22:04:51 [INFO ] Experimento 15 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 70,33
+2026-11-19 22:04:52 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,3 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2,2, Volumen de Agua = 404 mL, Velocidad de Agitador = 69 %, Tiempo de reacción 1 = 45 s, Masa de Acido Oleico = 6 g, Tiempo de reacción 2 = 21 s
+2026-11-19 22:04:52 [INFO ] Esperando al usuario: Experimento 14 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:05:37 [INFO ] --- Experimento 16 (n.º 14 de la campaña) ---
+2026-11-19 22:05:37 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 404 mL
+2026-11-19 22:05:37 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:05:39 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,2
+2026-11-19 22:05:39 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:05:40 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 69 %
+2026-11-19 22:05:40 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,3 mL, caudal 2,474 mL/s
+2026-11-19 22:05:40 [INFO ]          Bureta 1: robinete al 75 % durante 7.3 s (caudal medio 1.542 mL/s).
+2026-11-19 22:05:40 [INFO ] Paso 5: Esperar 45 s
+2026-11-19 22:05:43 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 6 g
+2026-11-19 22:05:43 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:05:43 [INFO ] Paso 7: Esperar 21 s
+2026-11-19 22:05:44 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:05:44 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:05:45 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:05:51 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 95,43
+2026-11-19 22:05:51 [INFO ] Experimento 16 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 95,43
+2026-11-19 22:05:52 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,2 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2,2, Volumen de Agua = 448 mL, Velocidad de Agitador = 66 %, Tiempo de reacción 1 = 52 s, Masa de Acido Oleico = 5,3 g, Tiempo de reacción 2 = 26 s
+2026-11-19 22:05:52 [INFO ] Esperando al usuario: Experimento 15 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:06:28 [INFO ] --- Experimento 17 (n.º 15 de la campaña) ---
+2026-11-19 22:06:28 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 448 mL
+2026-11-19 22:06:28 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:06:29 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,2
+2026-11-19 22:06:29 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:06:31 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 66 %
+2026-11-19 22:06:31 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,2 mL, caudal 2,474 mL/s
+2026-11-19 22:06:31 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 22:06:31 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 22:06:32 [INFO ]          Bureta 1: robinete al 75 % durante 5.0 s (caudal medio 2.218 mL/s).
+2026-11-19 22:06:32 [INFO ] Paso 5: Esperar 52 s
+2026-11-19 22:06:34 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 5,3 g
+2026-11-19 22:06:34 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:06:36 [INFO ] Paso 7: Esperar 26 s
+2026-11-19 22:06:38 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:06:38 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:06:38 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:06:45 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 91,61
+2026-11-19 22:06:45 [INFO ] Experimento 17 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 91,61
+2026-11-19 22:06:46 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,2 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2,2, Volumen de Agua = 368 mL, Velocidad de Agitador = 77 %, Tiempo de reacción 1 = 44 s, Masa de Acido Oleico = 5,5 g, Tiempo de reacción 2 = 31 s
+2026-11-19 22:06:46 [INFO ] Esperando al usuario: Experimento 16 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:07:15 [INFO ] --- Experimento 18 (n.º 16 de la campaña) ---
+2026-11-19 22:07:15 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 368 mL
+2026-11-19 22:07:15 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:07:16 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,2
+2026-11-19 22:07:16 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:07:17 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 77 %
+2026-11-19 22:07:17 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,2 mL, caudal 2,474 mL/s
+2026-11-19 22:07:17 [INFO ]          Bureta 1: robinete al 75 % durante 6.6 s (caudal medio 1.693 mL/s).
+2026-11-19 22:07:17 [INFO ] Paso 5: Esperar 44 s
+2026-11-19 22:07:19 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 5,5 g
+2026-11-19 22:07:19 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:07:21 [INFO ] Paso 7: Esperar 31 s
+2026-11-19 22:07:22 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:07:22 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:07:24 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:07:29 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 96,06
+2026-11-19 22:07:29 [INFO ] Experimento 18 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 96,06
+2026-11-19 22:07:30 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,3 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2,2, Volumen de Agua = 370 mL, Velocidad de Agitador = 78 %, Tiempo de reacción 1 = 42 s, Masa de Acido Oleico = 4,8 g, Tiempo de reacción 2 = 15 s
+2026-11-19 22:07:30 [INFO ] Esperando al usuario: Experimento 17 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:08:06 [INFO ] --- Experimento 19 (n.º 17 de la campaña) ---
+2026-11-19 22:08:06 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 370 mL
+2026-11-19 22:08:06 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:08:07 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,2
+2026-11-19 22:08:07 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:08:08 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 78 %
+2026-11-19 22:08:08 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,3 mL, caudal 2,474 mL/s
+2026-11-19 22:08:08 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 22:08:10 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 22:08:10 [INFO ]          Bureta 1: robinete al 75 % durante 5.1 s (caudal medio 2.216 mL/s).
+2026-11-19 22:08:10 [INFO ] Paso 5: Esperar 42 s
+2026-11-19 22:08:12 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 4,8 g
+2026-11-19 22:08:12 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:08:14 [INFO ] Paso 7: Esperar 15 s
+2026-11-19 22:08:14 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:08:14 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:08:15 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:08:23 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 96,46
+2026-11-19 22:08:23 [INFO ] Experimento 19 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 96,46
+2026-11-19 22:08:24 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,2 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2,2, Volumen de Agua = 380 mL, Velocidad de Agitador = 80 %, Tiempo de reacción 1 = 40 s, Masa de Acido Oleico = 5,8 g, Tiempo de reacción 2 = 15 s
+2026-11-19 22:08:24 [INFO ] Esperando al usuario: Experimento 18 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:08:53 [INFO ] --- Experimento 20 (n.º 18 de la campaña) ---
+2026-11-19 22:08:53 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 380 mL
+2026-11-19 22:08:53 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:08:55 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,2
+2026-11-19 22:08:55 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:08:55 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 80 %
+2026-11-19 22:08:55 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,2 mL, caudal 2,474 mL/s
+2026-11-19 22:08:56 [INFO ]          Bureta 1: robinete al 75 % durante 6.6 s (caudal medio 1.687 mL/s).
+2026-11-19 22:08:56 [INFO ] Paso 5: Esperar 40 s
+2026-11-19 22:08:58 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 5,8 g
+2026-11-19 22:08:58 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:08:58 [INFO ] Paso 7: Esperar 15 s
+2026-11-19 22:08:59 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:08:59 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:09:00 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:09:10 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 95,2
+2026-11-19 22:09:10 [INFO ] Experimento 20 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 95,2
+2026-11-19 22:09:11 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,2 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2,2, Volumen de Agua = 390 mL, Velocidad de Agitador = 80 %, Tiempo de reacción 1 = 47 s, Masa de Acido Oleico = 3,6 g, Tiempo de reacción 2 = 10 s
+2026-11-19 22:09:11 [INFO ] Esperando al usuario: Experimento 19 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:09:34 [INFO ] --- Experimento 21 (n.º 19 de la campaña) ---
+2026-11-19 22:09:34 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 390 mL
+2026-11-19 22:09:34 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:09:35 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,2
+2026-11-19 22:09:35 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:09:36 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 80 %
+2026-11-19 22:09:36 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,2 mL, caudal 2,474 mL/s
+2026-11-19 22:09:36 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 22:09:37 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 22:09:38 [INFO ]          Bureta 1: robinete al 75 % durante 5.0 s (caudal medio 2.218 mL/s).
+2026-11-19 22:09:38 [INFO ] Paso 5: Esperar 47 s
+2026-11-19 22:09:40 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 3,6 g
+2026-11-19 22:09:40 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:09:42 [INFO ] Paso 7: Esperar 10 s
+2026-11-19 22:09:42 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:09:42 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:09:44 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:09:53 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 95,69
+2026-11-19 22:09:53 [INFO ] Experimento 21 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 95,69
+2026-11-19 22:09:53 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,2 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2,2, Volumen de Agua = 376 mL, Velocidad de Agitador = 62 %, Tiempo de reacción 1 = 36 s, Masa de Acido Oleico = 4,5 g, Tiempo de reacción 2 = 18 s
+2026-11-19 22:09:53 [INFO ] Esperando al usuario: Experimento 20 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:10:19 [INFO ] --- Experimento 22 (n.º 20 de la campaña) ---
+2026-11-19 22:10:19 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 376 mL
+2026-11-19 22:10:19 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:10:20 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,2
+2026-11-19 22:10:20 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:10:20 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 62 %
+2026-11-19 22:10:20 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,2 mL, caudal 2,474 mL/s
+2026-11-19 22:10:21 [INFO ]          Bureta 1: robinete al 75 % durante 6.6 s (caudal medio 1.693 mL/s).
+2026-11-19 22:10:21 [INFO ] Paso 5: Esperar 36 s
+2026-11-19 22:10:22 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 4,5 g
+2026-11-19 22:10:22 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:10:24 [INFO ] Paso 7: Esperar 18 s
+2026-11-19 22:10:24 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:10:24 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:10:26 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:10:32 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 96,01
+2026-11-19 22:10:32 [INFO ] Experimento 22 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 96,01
+2026-11-19 22:10:33 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,2 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2,2, Volumen de Agua = 386 mL, Velocidad de Agitador = 80 %, Tiempo de reacción 1 = 55 s, Masa de Acido Oleico = 4,9 g, Tiempo de reacción 2 = 10 s
+2026-11-19 22:10:33 [INFO ] Esperando al usuario: Experimento 21 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:11:00 [INFO ] --- Experimento 23 (n.º 21 de la campaña) ---
+2026-11-19 22:11:00 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 386 mL
+2026-11-19 22:11:00 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:11:01 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,2
+2026-11-19 22:11:01 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:11:02 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 80 %
+2026-11-19 22:11:02 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,2 mL, caudal 2,474 mL/s
+2026-11-19 22:11:02 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 22:11:02 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 22:11:03 [INFO ]          Bureta 1: robinete al 75 % durante 5.0 s (caudal medio 2.218 mL/s).
+2026-11-19 22:11:03 [INFO ] Paso 5: Esperar 55 s
+2026-11-19 22:11:05 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 4,9 g
+2026-11-19 22:11:05 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:11:06 [INFO ] Paso 7: Esperar 10 s
+2026-11-19 22:11:07 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:11:07 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:11:07 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:11:14 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 95,47
+2026-11-19 22:11:14 [INFO ] Experimento 23 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 95,47
+2026-11-19 22:11:15 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,2 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2,2, Volumen de Agua = 366 mL, Velocidad de Agitador = 60 %, Tiempo de reacción 1 = 23 s, Masa de Acido Oleico = 4,5 g, Tiempo de reacción 2 = 18 s
+2026-11-19 22:11:15 [INFO ] Esperando al usuario: Experimento 22 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:11:43 [INFO ] --- Experimento 24 (n.º 22 de la campaña) ---
+2026-11-19 22:11:43 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 366 mL
+2026-11-19 22:11:43 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:11:44 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,2
+2026-11-19 22:11:44 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:11:45 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 60 %
+2026-11-19 22:11:45 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,2 mL, caudal 2,474 mL/s
+2026-11-19 22:11:45 [INFO ]          Bureta 1: robinete al 75 % durante 6.6 s (caudal medio 1.693 mL/s).
+2026-11-19 22:11:45 [INFO ] Paso 5: Esperar 23 s
+2026-11-19 22:11:46 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 4,5 g
+2026-11-19 22:11:46 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:11:47 [INFO ] Paso 7: Esperar 18 s
+2026-11-19 22:11:48 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:11:48 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:11:49 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:11:55 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 94,47
+2026-11-19 22:11:55 [INFO ] Experimento 24 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 94,47
+2026-11-19 22:11:55 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,2 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2,2, Volumen de Agua = 384 mL, Velocidad de Agitador = 80 %, Tiempo de reacción 1 = 61 s, Masa de Acido Oleico = 4,6 g, Tiempo de reacción 2 = 10 s
+2026-11-19 22:11:55 [INFO ] Esperando al usuario: Experimento 23 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:12:54 [INFO ] --- Experimento 25 (n.º 23 de la campaña) ---
+2026-11-19 22:12:54 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 384 mL
+2026-11-19 22:12:54 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:12:55 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,2
+2026-11-19 22:12:55 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:12:56 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 80 %
+2026-11-19 22:12:56 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,2 mL, caudal 2,474 mL/s
+2026-11-19 22:12:56 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 22:12:58 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 22:12:58 [INFO ]          Bureta 1: robinete al 75 % durante 5.0 s (caudal medio 2.218 mL/s).
+2026-11-19 22:12:58 [INFO ] Paso 5: Esperar 61 s
+2026-11-19 22:13:01 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 4,6 g
+2026-11-19 22:13:01 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:13:02 [INFO ] Paso 7: Esperar 10 s
+2026-11-19 22:13:02 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:13:02 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:13:03 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:13:09 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 95,4
+2026-11-19 22:13:09 [INFO ] Experimento 25 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 95,4
+2026-11-19 22:13:10 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,2 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2,2, Volumen de Agua = 390 mL, Velocidad de Agitador = 80 %, Tiempo de reacción 1 = 43 s, Masa de Acido Oleico = 3,1 g, Tiempo de reacción 2 = 27 s
+2026-11-19 22:13:10 [INFO ] Esperando al usuario: Experimento 24 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:13:36 [INFO ] --- Experimento 26 (n.º 24 de la campaña) ---
+2026-11-19 22:13:36 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 390 mL
+2026-11-19 22:13:36 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:13:37 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,2
+2026-11-19 22:13:37 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:13:37 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 80 %
+2026-11-19 22:13:37 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,2 mL, caudal 2,474 mL/s
+2026-11-19 22:13:38 [INFO ]          Bureta 1: robinete al 75 % durante 6.6 s (caudal medio 1.693 mL/s).
+2026-11-19 22:13:38 [INFO ] Paso 5: Esperar 43 s
+2026-11-19 22:13:40 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 3,1 g
+2026-11-19 22:13:40 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:13:41 [INFO ] Paso 7: Esperar 27 s
+2026-11-19 22:13:42 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:13:42 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:13:43 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:13:52 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 95,72
+2026-11-19 22:13:52 [INFO ] Experimento 26 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 95,72
+2026-11-19 22:13:53 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,2 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2,2, Volumen de Agua = 380 mL, Velocidad de Agitador = 80 %, Tiempo de reacción 1 = 38 s, Masa de Acido Oleico = 5,5 g, Tiempo de reacción 2 = 47 s
+2026-11-19 22:13:53 [INFO ] Esperando al usuario: Experimento 25 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:14:14 [INFO ] --- Experimento 27 (n.º 25 de la campaña) ---
+2026-11-19 22:14:14 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 380 mL
+2026-11-19 22:14:14 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:14:15 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,2
+2026-11-19 22:14:15 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:14:16 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 80 %
+2026-11-19 22:14:16 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,2 mL, caudal 2,474 mL/s
+2026-11-19 22:14:16 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 22:14:17 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 22:14:17 [INFO ]          Bureta 1: robinete al 75 % durante 5.0 s (caudal medio 2.218 mL/s).
+2026-11-19 22:14:17 [INFO ] Paso 5: Esperar 38 s
+2026-11-19 22:14:19 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 5,5 g
+2026-11-19 22:14:19 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:14:22 [INFO ] Paso 7: Esperar 47 s
+2026-11-19 22:14:25 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:14:25 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:14:28 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:14:35 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 93,84
+2026-11-19 22:14:35 [INFO ] Experimento 27 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 93,84
+2026-11-19 22:14:36 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,2 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2,2, Volumen de Agua = 372 mL, Velocidad de Agitador = 68 %, Tiempo de reacción 1 = 51 s, Masa de Acido Oleico = 4,2 g, Tiempo de reacción 2 = 26 s
+2026-11-19 22:14:36 [INFO ] Esperando al usuario: Experimento 26 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:15:04 [INFO ] --- Experimento 28 (n.º 26 de la campaña) ---
+2026-11-19 22:15:04 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 372 mL
+2026-11-19 22:15:04 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:15:05 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,2
+2026-11-19 22:15:05 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:15:06 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 68 %
+2026-11-19 22:15:06 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,2 mL, caudal 2,474 mL/s
+2026-11-19 22:15:07 [INFO ]          Bureta 1: robinete al 75 % durante 6.6 s (caudal medio 1.693 mL/s).
+2026-11-19 22:15:07 [INFO ] Paso 5: Esperar 51 s
+2026-11-19 22:15:09 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 4,2 g
+2026-11-19 22:15:09 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:15:14 [INFO ] Paso 7: Esperar 26 s
+2026-11-19 22:15:16 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:15:16 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:15:16 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:15:22 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 97,19
+2026-11-19 22:15:22 [INFO ] Experimento 28 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 97,19
+2026-11-19 22:15:23 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,2 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2,2, Volumen de Agua = 354 mL, Velocidad de Agitador = 67 %, Tiempo de reacción 1 = 56 s, Masa de Acido Oleico = 4 g, Tiempo de reacción 2 = 10 s
+2026-11-19 22:15:23 [INFO ] Esperando al usuario: Experimento 27 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:15:45 [INFO ] --- Experimento 29 (n.º 27 de la campaña) ---
+2026-11-19 22:15:45 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 354 mL
+2026-11-19 22:15:45 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:15:46 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,2
+2026-11-19 22:15:46 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:15:47 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 67 %
+2026-11-19 22:15:47 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,2 mL, caudal 2,474 mL/s
+2026-11-19 22:15:47 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 22:15:48 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 22:15:48 [INFO ]          Bureta 1: robinete al 75 % durante 5.0 s (caudal medio 2.218 mL/s).
+2026-11-19 22:15:48 [INFO ] Paso 5: Esperar 56 s
+2026-11-19 22:15:51 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 4 g
+2026-11-19 22:15:51 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:15:52 [INFO ] Paso 7: Esperar 10 s
+2026-11-19 22:15:52 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:15:52 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:15:53 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:15:59 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 97,04
+2026-11-19 22:15:59 [INFO ] Experimento 29 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 97,04
+2026-11-19 22:16:00 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,4 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2,2, Volumen de Agua = 370 mL, Velocidad de Agitador = 71 %, Tiempo de reacción 1 = 50 s, Masa de Acido Oleico = 3,2 g, Tiempo de reacción 2 = 17 s
+2026-11-19 22:16:00 [INFO ] Esperando al usuario: Experimento 28 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:16:30 [INFO ] --- Experimento 30 (n.º 28 de la campaña) ---
+2026-11-19 22:16:30 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 370 mL
+2026-11-19 22:16:30 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:16:31 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,2
+2026-11-19 22:16:31 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:16:32 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 71 %
+2026-11-19 22:16:32 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,4 mL, caudal 2,474 mL/s
+2026-11-19 22:16:33 [INFO ]          Bureta 1: robinete al 75 % durante 6.8 s (caudal medio 1.687 mL/s).
+2026-11-19 22:16:33 [INFO ] Paso 5: Esperar 50 s
+2026-11-19 22:16:35 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 3,2 g
+2026-11-19 22:16:35 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:16:36 [INFO ] Paso 7: Esperar 17 s
+2026-11-19 22:16:37 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:16:37 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:16:39 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:16:44 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 97,73
+2026-11-19 22:16:44 [INFO ] Experimento 30 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 97,73
+2026-11-19 22:16:45 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,8 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2,2, Volumen de Agua = 368 mL, Velocidad de Agitador = 72 %, Tiempo de reacción 1 = 59 s, Masa de Acido Oleico = 2 g, Tiempo de reacción 2 = 14 s
+2026-11-19 22:16:45 [INFO ] Esperando al usuario: Experimento 29 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:17:22 [INFO ] --- Experimento 31 (n.º 29 de la campaña) ---
+2026-11-19 22:17:22 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 368 mL
+2026-11-19 22:17:22 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:17:23 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,2
+2026-11-19 22:17:23 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:17:24 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 72 %
+2026-11-19 22:17:24 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,8 mL, caudal 2,474 mL/s
+2026-11-19 22:17:24 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 22:17:25 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 22:17:25 [INFO ]          Bureta 1: robinete al 75 % durante 5.3 s (caudal medio 2.208 mL/s).
+2026-11-19 22:17:25 [INFO ] Paso 5: Esperar 59 s
+2026-11-19 22:17:28 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 2 g
+2026-11-19 22:17:28 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:17:29 [INFO ] Paso 7: Esperar 14 s
+2026-11-19 22:17:30 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:17:30 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:17:31 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:17:38 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 97,69
+2026-11-19 22:17:38 [INFO ] Experimento 31 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 97,69
+2026-11-19 22:17:39 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 12 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2,2, Volumen de Agua = 354 mL, Velocidad de Agitador = 70 %, Tiempo de reacción 1 = 50 s, Masa de Acido Oleico = 2 g, Tiempo de reacción 2 = 20 s
+2026-11-19 22:17:39 [INFO ] Esperando al usuario: Experimento 30 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:18:35 [INFO ] --- Experimento 32 (n.º 30 de la campaña) ---
+2026-11-19 22:18:35 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 354 mL
+2026-11-19 22:18:35 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:18:41 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,2
+2026-11-19 22:18:41 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:18:42 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 70 %
+2026-11-19 22:18:42 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 12 mL, caudal 2,474 mL/s
+2026-11-19 22:18:42 [INFO ]          Bureta 1: robinete al 75 % durante 7.3 s (caudal medio 1.633 mL/s).
+2026-11-19 22:18:42 [INFO ] Paso 5: Esperar 50 s
+2026-11-19 22:18:45 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 2 g
+2026-11-19 22:18:45 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:18:46 [INFO ] Paso 7: Esperar 20 s
+2026-11-19 22:18:47 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:18:47 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:18:48 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:18:53 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,06
+2026-11-19 22:18:53 [INFO ] Experimento 32 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,06
+2026-11-19 22:18:54 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,6 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2,1, Volumen de Agua = 350 mL, Velocidad de Agitador = 72 %, Tiempo de reacción 1 = 48 s, Masa de Acido Oleico = 2 g, Tiempo de reacción 2 = 22 s
+2026-11-19 22:18:54 [INFO ] Esperando al usuario: Experimento 31 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:19:22 [INFO ] --- Experimento 33 (n.º 31 de la campaña) ---
+2026-11-19 22:19:22 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 350 mL
+2026-11-19 22:19:22 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:19:22 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,1
+2026-11-19 22:19:22 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:19:23 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 72 %
+2026-11-19 22:19:23 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,6 mL, caudal 2,474 mL/s
+2026-11-19 22:19:23 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 22:19:25 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 22:19:25 [INFO ]          Bureta 1: robinete al 75 % durante 5.2 s (caudal medio 2.211 mL/s).
+2026-11-19 22:19:25 [INFO ] Paso 5: Esperar 48 s
+2026-11-19 22:19:27 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 2 g
+2026-11-19 22:19:27 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:19:34 [INFO ] Paso 7: Esperar 22 s
+2026-11-19 22:19:35 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:19:35 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:19:36 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:19:42 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,4
+2026-11-19 22:19:42 [INFO ] Experimento 33 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,4
+2026-11-19 22:19:43 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,7 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 1,5, Volumen de Agua = 364 mL, Velocidad de Agitador = 74 %, Tiempo de reacción 1 = 51 s, Masa de Acido Oleico = 4,1 g, Tiempo de reacción 2 = 19 s
+2026-11-19 22:19:43 [INFO ] Esperando al usuario: Experimento 32 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:20:16 [INFO ] --- Experimento 34 (n.º 32 de la campaña) ---
+2026-11-19 22:20:16 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 364 mL
+2026-11-19 22:20:16 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:20:17 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 1,5
+2026-11-19 22:20:17 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:20:18 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 74 %
+2026-11-19 22:20:18 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,7 mL, caudal 2,474 mL/s
+2026-11-19 22:20:19 [INFO ]          Bureta 1: robinete al 75 % durante 7.1 s (caudal medio 1.655 mL/s).
+2026-11-19 22:20:19 [INFO ] Paso 5: Esperar 51 s
+2026-11-19 22:20:21 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 4,1 g
+2026-11-19 22:20:21 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:20:22 [INFO ] Paso 7: Esperar 19 s
+2026-11-19 22:20:23 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:20:23 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:20:24 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:20:32 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 93,6
+2026-11-19 22:20:32 [INFO ] Experimento 34 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 93,6
+2026-11-19 22:20:33 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,9 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2, Volumen de Agua = 356 mL, Velocidad de Agitador = 68 %, Tiempo de reacción 1 = 48 s, Masa de Acido Oleico = 2 g, Tiempo de reacción 2 = 13 s
+2026-11-19 22:20:33 [INFO ] Esperando al usuario: Experimento 33 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:21:04 [INFO ] --- Experimento 35 (n.º 33 de la campaña) ---
+2026-11-19 22:21:04 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 356 mL
+2026-11-19 22:21:04 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:21:06 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2
+2026-11-19 22:21:06 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:21:07 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 68 %
+2026-11-19 22:21:07 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,9 mL, caudal 2,474 mL/s
+2026-11-19 22:21:07 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 22:21:08 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 22:21:09 [INFO ]          Bureta 1: robinete al 75 % durante 5.4 s (caudal medio 2.206 mL/s).
+2026-11-19 22:21:09 [INFO ] Paso 5: Esperar 48 s
+2026-11-19 22:21:11 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 2 g
+2026-11-19 22:21:11 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:21:12 [INFO ] Paso 7: Esperar 13 s
+2026-11-19 22:21:12 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:21:12 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:21:13 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:21:19 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,72
+2026-11-19 22:21:19 [INFO ] Experimento 35 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,72
+2026-11-19 22:21:20 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,6 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 1,9, Volumen de Agua = 378 mL, Velocidad de Agitador = 67 %, Tiempo de reacción 1 = 44 s, Masa de Acido Oleico = 2,1 g, Tiempo de reacción 2 = 14 s
+2026-11-19 22:21:20 [INFO ] Esperando al usuario: Experimento 34 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:22:10 [INFO ] Pausa pedida: se detendrá al terminar el paso en curso.
+2026-11-19 22:37:04 [AVISO] Sin respuesta del usuario: se dejó todo en estado seguro mientras se espera.
+2026-11-19 22:49:41 [INFO ] --- Experimento 36 (n.º 34 de la campaña) ---
+2026-11-19 22:49:48 [INFO ] Se reanuda la campaña.
+2026-11-19 22:49:48 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 378 mL
+2026-11-19 22:49:48 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:49:50 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 1,9
+2026-11-19 22:49:50 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:49:50 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 67 %
+2026-11-19 22:49:50 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,6 mL, caudal 2,474 mL/s
+2026-11-19 22:49:51 [INFO ]          Bureta 1: robinete al 75 % durante 7.1 s (caudal medio 1.641 mL/s).
+2026-11-19 22:49:51 [INFO ] Paso 5: Esperar 44 s
+2026-11-19 22:49:53 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 2,1 g
+2026-11-19 22:49:53 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:49:54 [INFO ] Paso 7: Esperar 14 s
+2026-11-19 22:49:55 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:49:55 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:49:57 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:50:04 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,08
+2026-11-19 22:50:04 [INFO ] Experimento 36 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,08
+2026-11-19 22:50:06 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,8 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 1,8, Volumen de Agua = 350 mL, Velocidad de Agitador = 64 %, Tiempo de reacción 1 = 60 s, Masa de Acido Oleico = 2 g, Tiempo de reacción 2 = 10 s
+2026-11-19 22:50:06 [INFO ] Esperando al usuario: Experimento 35 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:50:32 [INFO ] --- Experimento 37 (n.º 35 de la campaña) ---
+2026-11-19 22:50:32 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 350 mL
+2026-11-19 22:50:32 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:50:33 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 1,8
+2026-11-19 22:50:33 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:50:34 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 64 %
+2026-11-19 22:50:34 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,8 mL, caudal 2,474 mL/s
+2026-11-19 22:50:34 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 22:50:35 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 22:50:36 [INFO ]          Bureta 1: robinete al 75 % durante 5.3 s (caudal medio 2.208 mL/s).
+2026-11-19 22:50:36 [INFO ] Paso 5: Esperar 60 s
+2026-11-19 22:50:39 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 2 g
+2026-11-19 22:50:39 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:50:40 [INFO ] Paso 7: Esperar 10 s
+2026-11-19 22:50:40 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:50:40 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:50:41 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:50:46 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 97,17
+2026-11-19 22:50:46 [INFO ] Experimento 37 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 97,17
+2026-11-19 22:50:47 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 12,1 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2, Volumen de Agua = 364 mL, Velocidad de Agitador = 73 %, Tiempo de reacción 1 = 48 s, Masa de Acido Oleico = 2 g, Tiempo de reacción 2 = 14 s
+2026-11-19 22:50:47 [INFO ] Esperando al usuario: Experimento 36 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:51:18 [INFO ] --- Experimento 38 (n.º 36 de la campaña) ---
+2026-11-19 22:51:18 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 364 mL
+2026-11-19 22:51:18 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:51:20 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2
+2026-11-19 22:51:20 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:51:21 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 73 %
+2026-11-19 22:51:21 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 12,1 mL, caudal 2,474 mL/s
+2026-11-19 22:51:22 [INFO ]          Bureta 1: robinete al 75 % durante 7.4 s (caudal medio 1.630 mL/s).
+2026-11-19 22:51:22 [INFO ] Paso 5: Esperar 48 s
+2026-11-19 22:51:24 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 2 g
+2026-11-19 22:51:24 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:51:26 [INFO ] Paso 7: Esperar 14 s
+2026-11-19 22:51:26 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:51:26 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:51:28 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:51:36 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,69
+2026-11-19 22:51:36 [INFO ] Experimento 38 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,69
+2026-11-19 22:51:37 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,7 mL, Caudal de Bureta 1 = 2,524 mL/s, ratio FeCl3:FeCl2 = 1,9, Volumen de Agua = 362 mL, Velocidad de Agitador = 79 %, Tiempo de reacción 1 = 45 s, Masa de Acido Oleico = 2 g, Tiempo de reacción 2 = 10 s
+2026-11-19 22:51:37 [INFO ] Esperando al usuario: Experimento 37 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:52:15 [INFO ] --- Experimento 39 (n.º 37 de la campaña) ---
+2026-11-19 22:52:15 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 362 mL
+2026-11-19 22:52:15 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:52:17 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 1,9
+2026-11-19 22:52:17 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:52:17 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 79 %
+2026-11-19 22:52:17 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,7 mL, caudal 2,524 mL/s
+2026-11-19 22:52:17 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 22:52:19 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 22:52:19 [INFO ]          Bureta 1: robinete al 75 % durante 5.3 s (caudal medio 2.210 mL/s).
+2026-11-19 22:52:19 [INFO ] Paso 5: Esperar 45 s
+2026-11-19 22:52:21 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 2 g
+2026-11-19 22:52:21 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 22:52:22 [INFO ] Paso 7: Esperar 10 s
+2026-11-19 22:52:23 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 22:52:23 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 22:52:24 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 22:52:30 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 97,67
+2026-11-19 22:52:30 [INFO ] Experimento 39 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 97,67
+2026-11-19 22:52:31 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,7 mL, Caudal de Bureta 1 = 2,524 mL/s, ratio FeCl3:FeCl2 = 2,1, Volumen de Agua = 368 mL, Velocidad de Agitador = 71 %, Tiempo de reacción 1 = 55 s, Masa de Acido Oleico = 2 g, Tiempo de reacción 2 = 10 s
+2026-11-19 22:52:31 [INFO ] Esperando al usuario: Experimento 38 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 22:56:32 [INFO ] Pausa pedida: se detendrá al terminar el paso en curso.
+2026-11-19 23:20:36 [AVISO] Sin respuesta del usuario: se dejó todo en estado seguro mientras se espera.
+2026-11-19 23:21:10 [INFO ] --- Experimento 40 (n.º 38 de la campaña) ---
+2026-11-19 23:21:13 [INFO ] Se reanuda la campaña.
+2026-11-19 23:21:13 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 368 mL
+2026-11-19 23:21:13 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:21:14 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,1
+2026-11-19 23:21:14 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:21:15 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 71 %
+2026-11-19 23:21:15 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,7 mL, caudal 2,524 mL/s
+2026-11-19 23:21:15 [INFO ]          Bureta 1: robinete al 75 % durante 7.1 s (caudal medio 1.649 mL/s).
+2026-11-19 23:21:15 [INFO ] Paso 5: Esperar 55 s
+2026-11-19 23:21:18 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 2 g
+2026-11-19 23:21:18 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:21:19 [INFO ] Paso 7: Esperar 10 s
+2026-11-19 23:21:19 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 23:21:19 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 23:21:20 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 23:21:26 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,43
+2026-11-19 23:21:26 [INFO ] Experimento 40 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,43
+2026-11-19 23:21:27 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,2 mL, Caudal de Bureta 1 = 2,524 mL/s, ratio FeCl3:FeCl2 = 2, Volumen de Agua = 356 mL, Velocidad de Agitador = 69 %, Tiempo de reacción 1 = 51 s, Masa de Acido Oleico = 2 g, Tiempo de reacción 2 = 20 s
+2026-11-19 23:21:27 [INFO ] Esperando al usuario: Experimento 39 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 23:22:00 [INFO ] --- Experimento 41 (n.º 39 de la campaña) ---
+2026-11-19 23:22:00 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 356 mL
+2026-11-19 23:22:00 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:22:02 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2
+2026-11-19 23:22:02 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:22:03 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 69 %
+2026-11-19 23:22:03 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,2 mL, caudal 2,524 mL/s
+2026-11-19 23:22:03 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 23:22:05 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 23:22:05 [INFO ]          Bureta 1: robinete al 75 % durante 5.0 s (caudal medio 2.218 mL/s).
+2026-11-19 23:22:05 [INFO ] Paso 5: Esperar 51 s
+2026-11-19 23:22:07 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 2 g
+2026-11-19 23:22:07 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:22:09 [INFO ] Paso 7: Esperar 20 s
+2026-11-19 23:22:10 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 23:22:10 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 23:22:11 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 23:22:29 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,37
+2026-11-19 23:22:29 [INFO ] Experimento 41 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,37
+2026-11-19 23:22:30 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,3 mL, Caudal de Bureta 1 = 2,524 mL/s, ratio FeCl3:FeCl2 = 2, Volumen de Agua = 356 mL, Velocidad de Agitador = 68 %, Tiempo de reacción 1 = 46 s, Masa de Acido Oleico = 2 g, Tiempo de reacción 2 = 10 s
+2026-11-19 23:22:30 [INFO ] Esperando al usuario: Experimento 40 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 23:22:56 [INFO ] --- Experimento 42 (n.º 40 de la campaña) ---
+2026-11-19 23:22:56 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 356 mL
+2026-11-19 23:22:56 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:22:59 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2
+2026-11-19 23:22:59 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:23:00 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 68 %
+2026-11-19 23:23:00 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,3 mL, caudal 2,524 mL/s
+2026-11-19 23:23:00 [INFO ]          Bureta 1: robinete al 75 % durante 6.7 s (caudal medio 1.690 mL/s).
+2026-11-19 23:23:00 [INFO ] Paso 5: Esperar 46 s
+2026-11-19 23:23:02 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 2 g
+2026-11-19 23:23:02 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:23:04 [INFO ] Paso 7: Esperar 10 s
+2026-11-19 23:23:04 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 23:23:04 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 23:23:05 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 23:23:14 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,26
+2026-11-19 23:23:14 [INFO ] Experimento 42 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,26
+2026-11-19 23:23:15 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 11,2 mL, Caudal de Bureta 1 = 2,524 mL/s, ratio FeCl3:FeCl2 = 1,9, Volumen de Agua = 378 mL, Velocidad de Agitador = 74 %, Tiempo de reacción 1 = 57 s, Masa de Acido Oleico = 2 g, Tiempo de reacción 2 = 10 s
+2026-11-19 23:23:15 [INFO ] Esperando al usuario: Experimento 41 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 23:23:51 [INFO ] --- Experimento 43 (n.º 41 de la campaña) ---
+2026-11-19 23:23:51 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 378 mL
+2026-11-19 23:23:51 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:23:53 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 1,9
+2026-11-19 23:23:53 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:23:53 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 74 %
+2026-11-19 23:23:53 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 11,2 mL, caudal 2,524 mL/s
+2026-11-19 23:23:53 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 23:23:55 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 23:23:55 [INFO ]          Bureta 1: robinete al 75 % durante 5.0 s (caudal medio 2.218 mL/s).
+2026-11-19 23:23:55 [INFO ] Paso 5: Esperar 57 s
+2026-11-19 23:23:58 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 2 g
+2026-11-19 23:23:58 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:23:59 [INFO ] Paso 7: Esperar 10 s
+2026-11-19 23:24:00 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 23:24:00 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 23:24:01 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 23:24:04 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 97,5
+2026-11-19 23:24:04 [INFO ] Experimento 43 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 97,5
+2026-11-19 23:24:05 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 12,2 mL, Caudal de Bureta 1 = 2,524 mL/s, ratio FeCl3:FeCl2 = 2, Volumen de Agua = 360 mL, Velocidad de Agitador = 67 %, Tiempo de reacción 1 = 50 s, Masa de Acido Oleico = 2 g, Tiempo de reacción 2 = 28 s
+2026-11-19 23:24:05 [INFO ] Esperando al usuario: Experimento 42 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 23:24:36 [INFO ] --- Experimento 44 (n.º 42 de la campaña) ---
+2026-11-19 23:24:36 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 360 mL
+2026-11-19 23:24:36 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:24:37 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2
+2026-11-19 23:24:37 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:24:39 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 67 %
+2026-11-19 23:24:39 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 12,2 mL, caudal 2,524 mL/s
+2026-11-19 23:24:39 [INFO ]          Bureta 1: robinete al 75 % durante 7.3 s (caudal medio 1.662 mL/s).
+2026-11-19 23:24:39 [INFO ] Paso 5: Esperar 50 s
+2026-11-19 23:24:42 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 2 g
+2026-11-19 23:24:42 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:24:46 [INFO ] Paso 7: Esperar 28 s
+2026-11-19 23:24:48 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 23:24:48 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 23:24:49 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 23:24:57 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,78
+2026-11-19 23:24:57 [INFO ] Experimento 44 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,78
+2026-11-19 23:24:58 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 12 mL, Caudal de Bureta 1 = 2,524 mL/s, ratio FeCl3:FeCl2 = 2, Volumen de Agua = 370 mL, Velocidad de Agitador = 70 %, Tiempo de reacción 1 = 47 s, Masa de Acido Oleico = 2 g, Tiempo de reacción 2 = 25 s
+2026-11-19 23:24:58 [INFO ] Esperando al usuario: Experimento 43 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 23:25:36 [INFO ] --- Experimento 45 (n.º 43 de la campaña) ---
+2026-11-19 23:25:36 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 370 mL
+2026-11-19 23:25:36 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:25:39 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2
+2026-11-19 23:25:39 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:25:40 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 70 %
+2026-11-19 23:25:40 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 12 mL, caudal 2,524 mL/s
+2026-11-19 23:25:40 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 23:25:41 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 23:25:42 [INFO ]          Bureta 1: robinete al 75 % durante 5.4 s (caudal medio 2.204 mL/s).
+2026-11-19 23:25:42 [INFO ] Paso 5: Esperar 47 s
+2026-11-19 23:25:44 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 2 g
+2026-11-19 23:25:44 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:25:45 [INFO ] Paso 7: Esperar 25 s
+2026-11-19 23:25:46 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 23:25:46 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 23:25:47 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 23:25:52 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,9
+2026-11-19 23:25:52 [INFO ] Experimento 45 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,9
+2026-11-19 23:25:53 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 12,6 mL, Caudal de Bureta 1 = 2,524 mL/s, ratio FeCl3:FeCl2 = 2, Volumen de Agua = 350 mL, Velocidad de Agitador = 71 %, Tiempo de reacción 1 = 55 s, Masa de Acido Oleico = 2 g, Tiempo de reacción 2 = 18 s
+2026-11-19 23:25:53 [INFO ] Esperando al usuario: Experimento 44 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 23:26:20 [INFO ] --- Experimento 46 (n.º 44 de la campaña) ---
+2026-11-19 23:26:20 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 350 mL
+2026-11-19 23:26:20 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:26:22 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2
+2026-11-19 23:26:22 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:26:23 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 71 %
+2026-11-19 23:26:23 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 12,6 mL, caudal 2,524 mL/s
+2026-11-19 23:26:24 [INFO ]          Bureta 1: robinete al 75 % durante 7.9 s (caudal medio 1.601 mL/s).
+2026-11-19 23:26:24 [INFO ] Paso 5: Esperar 55 s
+2026-11-19 23:26:27 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 2 g
+2026-11-19 23:26:27 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:26:29 [INFO ] Paso 7: Esperar 18 s
+2026-11-19 23:26:30 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 23:26:30 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 23:26:30 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 23:26:36 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,53
+2026-11-19 23:26:36 [INFO ] Experimento 46 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,53
+2026-11-19 23:26:37 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 12,5 mL, Caudal de Bureta 1 = 2,524 mL/s, ratio FeCl3:FeCl2 = 1,9, Volumen de Agua = 376 mL, Velocidad de Agitador = 67 %, Tiempo de reacción 1 = 47 s, Masa de Acido Oleico = 2 g, Tiempo de reacción 2 = 10 s
+2026-11-19 23:26:37 [INFO ] Esperando al usuario: Experimento 45 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 23:27:28 [INFO ] --- Experimento 47 (n.º 45 de la campaña) ---
+2026-11-19 23:27:28 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 376 mL
+2026-11-19 23:27:28 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:27:29 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 1,9
+2026-11-19 23:27:29 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:27:30 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 67 %
+2026-11-19 23:27:30 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 12,5 mL, caudal 2,524 mL/s
+2026-11-19 23:27:30 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 23:27:31 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 23:27:31 [INFO ]          Bureta 1: robinete al 75 % durante 5.7 s (caudal medio 2.195 mL/s).
+2026-11-19 23:27:31 [INFO ] Paso 5: Esperar 47 s
+2026-11-19 23:27:33 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 2 g
+2026-11-19 23:27:33 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:27:34 [INFO ] Paso 7: Esperar 10 s
+2026-11-19 23:27:34 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 23:27:34 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 23:27:35 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 23:27:39 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,1
+2026-11-19 23:27:39 [INFO ] Experimento 47 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,1
+2026-11-19 23:27:41 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 12,4 mL, Caudal de Bureta 1 = 2,524 mL/s, ratio FeCl3:FeCl2 = 2,1, Volumen de Agua = 352 mL, Velocidad de Agitador = 66 %, Tiempo de reacción 1 = 45 s, Masa de Acido Oleico = 2,2 g, Tiempo de reacción 2 = 13 s
+2026-11-19 23:27:41 [INFO ] Esperando al usuario: Experimento 46 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 23:28:10 [INFO ] --- Experimento 48 (n.º 46 de la campaña) ---
+2026-11-19 23:28:10 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 352 mL
+2026-11-19 23:28:10 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:28:12 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,1
+2026-11-19 23:28:12 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:28:12 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 66 %
+2026-11-19 23:28:12 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 12,4 mL, caudal 2,524 mL/s
+2026-11-19 23:28:12 [INFO ]          Bureta 1: robinete al 75 % durante 7.9 s (caudal medio 1.578 mL/s).
+2026-11-19 23:28:12 [INFO ] Paso 5: Esperar 45 s
+2026-11-19 23:28:15 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 2,2 g
+2026-11-19 23:28:15 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:28:16 [INFO ] Paso 7: Esperar 13 s
+2026-11-19 23:28:17 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 23:28:17 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 23:28:18 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 23:28:23 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,35
+2026-11-19 23:28:23 [INFO ] Experimento 48 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,35
+2026-11-19 23:28:24 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 12,7 mL, Caudal de Bureta 1 = 2,524 mL/s, ratio FeCl3:FeCl2 = 2,1, Volumen de Agua = 384 mL, Velocidad de Agitador = 71 %, Tiempo de reacción 1 = 55 s, Masa de Acido Oleico = 2 g, Tiempo de reacción 2 = 28 s
+2026-11-19 23:28:24 [INFO ] Esperando al usuario: Experimento 47 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 23:28:54 [INFO ] --- Experimento 49 (n.º 47 de la campaña) ---
+2026-11-19 23:28:54 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 384 mL
+2026-11-19 23:28:54 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:28:56 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2,1
+2026-11-19 23:28:56 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:28:57 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 71 %
+2026-11-19 23:28:57 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 12,7 mL, caudal 2,524 mL/s
+2026-11-19 23:28:57 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 23:28:58 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 23:28:59 [INFO ]          Bureta 1: robinete al 75 % durante 5.8 s (caudal medio 2.191 mL/s).
+2026-11-19 23:28:59 [INFO ] Paso 5: Esperar 55 s
+2026-11-19 23:29:01 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 2 g
+2026-11-19 23:29:01 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:29:02 [INFO ] Paso 7: Esperar 28 s
+2026-11-19 23:29:03 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 23:29:03 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 23:29:04 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 23:29:11 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 97,76
+2026-11-19 23:29:11 [INFO ] Experimento 49 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 97,76
+2026-11-19 23:29:12 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 12 mL, Caudal de Bureta 1 = 2,524 mL/s, ratio FeCl3:FeCl2 = 2, Volumen de Agua = 356 mL, Velocidad de Agitador = 73 %, Tiempo de reacción 1 = 44 s, Masa de Acido Oleico = 2 g, Tiempo de reacción 2 = 24 s
+2026-11-19 23:29:12 [INFO ] Esperando al usuario: Experimento 48 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 23:29:40 [INFO ] --- Experimento 50 (n.º 48 de la campaña) ---
+2026-11-19 23:29:40 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 356 mL
+2026-11-19 23:29:40 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:29:42 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2
+2026-11-19 23:29:42 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:29:42 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 73 %
+2026-11-19 23:29:42 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 12 mL, caudal 2,524 mL/s
+2026-11-19 23:29:43 [INFO ]          Bureta 1: robinete al 75 % durante 7.6 s (caudal medio 1.580 mL/s).
+2026-11-19 23:29:43 [INFO ] Paso 5: Esperar 44 s
+2026-11-19 23:29:45 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 2 g
+2026-11-19 23:29:45 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:29:46 [INFO ] Paso 7: Esperar 24 s
+2026-11-19 23:29:47 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 23:29:47 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 23:29:48 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 23:29:53 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,81
+2026-11-19 23:29:53 [INFO ] Experimento 50 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,81
+2026-11-19 23:29:54 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 12 mL, Caudal de Bureta 1 = 2,524 mL/s, ratio FeCl3:FeCl2 = 2, Volumen de Agua = 348 mL, Velocidad de Agitador = 71 %, Tiempo de reacción 1 = 51 s, Masa de Acido Oleico = 3,4 g, Tiempo de reacción 2 = 14 s
+2026-11-19 23:29:54 [INFO ] Esperando al usuario: Experimento 49 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 23:30:29 [INFO ] --- Experimento 51 (n.º 49 de la campaña) ---
+2026-11-19 23:30:29 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 348 mL
+2026-11-19 23:30:29 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:30:30 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2
+2026-11-19 23:30:30 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:30:31 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 71 %
+2026-11-19 23:30:31 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 12 mL, caudal 2,524 mL/s
+2026-11-19 23:30:31 [INFO ] Esperando al usuario: Hace falta su ayuda: Bureta 1.
+2026-11-19 23:30:32 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-19 23:30:32 [INFO ]          Bureta 1: robinete al 75 % durante 5.4 s (caudal medio 2.204 mL/s).
+2026-11-19 23:30:32 [INFO ] Paso 5: Esperar 51 s
+2026-11-19 23:30:35 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 3,4 g
+2026-11-19 23:30:35 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:30:36 [INFO ] Paso 7: Esperar 14 s
+2026-11-19 23:30:36 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 23:30:36 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 23:30:37 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 23:30:42 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,94
+2026-11-19 23:30:42 [INFO ] Experimento 51 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,94
+2026-11-19 23:30:43 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 12 mL, Caudal de Bureta 1 = 2,474 mL/s, ratio FeCl3:FeCl2 = 2, Volumen de Agua = 358 mL, Velocidad de Agitador = 70 %, Tiempo de reacción 1 = 54 s, Masa de Acido Oleico = 4,1 g, Tiempo de reacción 2 = 21 s
+2026-11-19 23:30:43 [INFO ] Esperando al usuario: Experimento 50 de 50: ¿ejecutar esta propuesta?.
+2026-11-19 23:31:06 [INFO ] --- Experimento 52 (n.º 50 de la campaña) ---
+2026-11-19 23:31:06 [INFO ] Paso 1: Ajuste manual: Volumen de Agua = 358 mL
+2026-11-19 23:31:06 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:31:07 [INFO ] Paso 2: Ajuste manual: ratio FeCl3:FeCl2 = 2
+2026-11-19 23:31:07 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:31:08 [INFO ] Paso 3: Agitador: encender (queda girando) — velocidad 70 %
+2026-11-19 23:31:08 [INFO ] Paso 4: Bureta 1: dosificar un volumen a un caudal — volumen 12 mL, caudal 2,474 mL/s
+2026-11-19 23:31:09 [INFO ]          Bureta 1: robinete al 75 % durante 7.4 s (caudal medio 1.622 mL/s).
+2026-11-19 23:31:09 [INFO ] Paso 5: Esperar 54 s
+2026-11-19 23:31:11 [INFO ] Paso 6: Ajuste manual: Masa de Acido Oleico = 4,1 g
+2026-11-19 23:31:11 [INFO ] Esperando al usuario: Ajuste manual.
+2026-11-19 23:31:12 [INFO ] Paso 7: Esperar 21 s
+2026-11-19 23:31:14 [INFO ] Paso 8: Acción manual: Ajustar pH a aproximadamente 6
+2026-11-19 23:31:14 [INFO ] Esperando al usuario: Acción manual.
+2026-11-19 23:31:14 [INFO ] Esperando al usuario: Medición: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s.
+2026-11-19 23:31:20 [INFO ] Paso 9: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,97
+2026-11-19 23:31:20 [INFO ] Experimento 52 completado: Valor (HSV) en el extremo opuesto donde se coloca un iman luego de 3s = 98,97
+2026-11-19 23:31:20 [INFO ] === Fin de campaña: Se alcanzó el máximo de 50 experimentos. ===
+2026-11-19 23:31:21 [INFO ] Informe generado: informe_sintesis_de_magnetita_3_20261119-233120.pdf
+2026-11-20 09:41:46 [INFO ] ESP32> 1025
+2026-11-20 09:41:46 [INFO ] ESP32> Build:Oct 25 2019
+2026-11-20 09:41:46 [INFO ] ESP32> rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+2026-11-20 09:41:46 [INFO ] ESP32> SPIWP:0xee
+2026-11-20 09:41:46 [INFO ] ESP32> mode:DIO, clock div:1
+2026-11-20 09:41:46 [INFO ] ESP32> load:0x3ffe5110,len:0xe3c
+2026-11-20 09:41:46 [INFO ] ESP32> load:0x4004a000,len:0x8ec
+2026-11-20 09:41:46 [INFO ] ESP32> load:0x4004e000,len:0x3180
+2026-11-20 09:41:46 [INFO ] ESP32> entry 0x4004a130
+2026-11-20 09:53:28 [INFO ] Se perdió la conexión con el ESP32: ReadFile failed (OSError(9, 'The handle is invalid.', None, 6))
+2026-11-20 09:54:26 [INFO ] Se perdió la conexión con el ESP32: ReadFile failed (OSError(9, 'The handle is invalid.', None, 6))
+2026-11-20 10:14:17 [INFO ] Lista previa confirmada por el usuario: Bureta 1 está cargada con: agua. | Tengo puestos antiparras, guantes y guardapolvo. | Los reactivos cargados son los indicados y están rotulados. | El vaso de reacción está limpio, vacío y en su lugar. | La zona de movimiento del brazo está despejada. | Tengo al alcance el botón de parada de emergencia. | La ventilación es la adecuada para esta reacción.
+2026-11-20 10:14:17 [INFO ] === Inicio de campaña «lkjfd» (ESP32 en COM3) ===
+2026-11-20 10:14:17 [INFO ] Esperando al usuario: Preparación: Bureta 1.
+2026-11-20 10:15:07 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-20 10:15:07 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 4,7 mL, Caudal de Bureta 1 = 1,853 mL/s, Velocidad de Agitador (NEMA17) = 40 rpm
+2026-11-20 10:15:07 [INFO ] Esperando al usuario: Experimento 1 de 20: ¿ejecutar esta propuesta?.
+2026-11-20 10:15:14 [INFO ] --- Experimento 2 (n.º 1 de la campaña) ---
+2026-11-20 10:15:14 [INFO ] Paso 1: Agitador (NEMA17): encender (queda girando) — velocidad 40 rpm
+2026-11-20 10:15:15 [INFO ] Paso 2: Bureta 1: dosificar un volumen a un caudal — volumen 4,7 mL, caudal 1,853 mL/s
+2026-11-20 10:15:18 [INFO ]          Bureta 1: robinete al 52 % durante 2.8 s (caudal medio 1.684 mL/s).
+2026-11-20 10:15:18 [INFO ] Paso 3: Agitador (NEMA17): apagar
+2026-11-20 10:15:18 [INFO ] Esperando al usuario: Medición: rendimiento.
+2026-11-20 10:15:47 [INFO ] Paso 4: rendimiento = 22,27
+2026-11-20 10:15:47 [INFO ] Experimento 2 completado: rendimiento = 22,27
+2026-11-20 10:15:47 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 1,7 mL, Caudal de Bureta 1 = 3,403 mL/s, Velocidad de Agitador (NEMA17) = 40 rpm
+2026-11-20 10:15:47 [INFO ] Esperando al usuario: Experimento 2 de 20: ¿ejecutar esta propuesta?.
+2026-11-20 10:16:24 [INFO ] --- Experimento 3 (n.º 2 de la campaña) ---
+2026-11-20 10:16:24 [INFO ] Paso 1: Agitador (NEMA17): encender (queda girando) — velocidad 40 rpm
+2026-11-20 10:16:25 [INFO ] Paso 2: Bureta 1: dosificar un volumen a un caudal — volumen 1,7 mL, caudal 3,403 mL/s
+2026-11-20 10:16:25 [ERROR] === Fin de campaña: La campaña se detuvo por un error del equipo: Bureta 1: esta dosis pide abrir el robinete solo 0.71 s, y el servo continuo tarda 0.78 s en abrirlo a ese 100 %. Dosifique un volumen mayor o con menos caudal, o acelere el servo (servo_vel_us) y vuelva a medir sus °/s. ===
+2026-11-20 10:16:25 [INFO ] Informe generado: informe_lkjfd_20261120-101625.pdf
+2026-11-20 10:17:19 [INFO ] Lista previa confirmada por el usuario: Bureta 1 está cargada con: agua. | Tengo puestos antiparras, guantes y guardapolvo. | Los reactivos cargados son los indicados y están rotulados. | El vaso de reacción está limpio, vacío y en su lugar. | La zona de movimiento del brazo está despejada. | Tengo al alcance el botón de parada de emergencia. | La ventilación es la adecuada para esta reacción.
+2026-11-20 10:17:19 [INFO ] === Inicio de campaña «lkjfd» (ESP32 en COM3) ===
+2026-11-20 10:17:19 [INFO ] Esperando al usuario: Preparación: Bureta 1.
+2026-11-20 10:17:41 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 22,8 mL.
+2026-11-20 10:17:41 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 1,8 mL, Caudal de Bureta 1 = 3,257 mL/s, Velocidad de Agitador (NEMA17) = 40 rpm
+2026-11-20 10:17:41 [INFO ] Esperando al usuario: Experimento 1 de 20: ¿ejecutar esta propuesta?.
+2026-11-20 10:17:59 [INFO ] --- Experimento 4 (n.º 1 de la campaña) ---
+2026-11-20 10:17:59 [INFO ] Paso 1: Agitador (NEMA17): encender (queda girando) — velocidad 40 rpm
+2026-11-20 10:17:59 [INFO ] Paso 2: Bureta 1: dosificar un volumen a un caudal — volumen 1,8 mL, caudal 3,257 mL/s
+2026-11-20 10:17:59 [ERROR] === Fin de campaña: La campaña se detuvo por un error del equipo: Bureta 1: esta dosis pide abrir el robinete solo 0.73 s, y el servo continuo tarda 0.76 s en abrirlo a ese 97.5 %. Dosifique un volumen mayor o con menos caudal, o acelere el servo (servo_vel_us) y vuelva a medir sus °/s. ===
+2026-11-20 10:17:59 [INFO ] Informe generado: informe_lkjfd_20261120-101759.pdf
+2026-11-20 10:18:28 [INFO ] Lista previa confirmada por el usuario: Bureta 1 está cargada con: agua. | Tengo puestos antiparras, guantes y guardapolvo. | Los reactivos cargados son los indicados y están rotulados. | El vaso de reacción está limpio, vacío y en su lugar. | La zona de movimiento del brazo está despejada. | Tengo al alcance el botón de parada de emergencia. | La ventilación es la adecuada para esta reacción.
+2026-11-20 10:18:28 [INFO ] === Inicio de campaña «lkjfd» (ESP32 en COM3) ===
+2026-11-20 10:18:28 [INFO ] Esperando al usuario: Preparación: Bureta 1.
+2026-11-20 10:18:30 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 22,8 mL.
+2026-11-20 10:18:31 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 2 mL, Caudal de Bureta 1 = 3,024 mL/s, Velocidad de Agitador (NEMA17) = 40 rpm
+2026-11-20 10:18:31 [INFO ] Esperando al usuario: Experimento 1 de 20: ¿ejecutar esta propuesta?.
+2026-11-20 10:18:32 [INFO ] --- Experimento 5 (n.º 1 de la campaña) ---
+2026-11-20 10:18:32 [INFO ] Paso 1: Agitador (NEMA17): encender (queda girando) — velocidad 40 rpm
+2026-11-20 10:18:32 [INFO ] Paso 2: Bureta 1: dosificar un volumen a un caudal — volumen 2 mL, caudal 3,024 mL/s
+2026-11-20 10:18:34 [INFO ]          Bureta 1: robinete al 91 % durante 0.8 s (caudal medio 2.361 mL/s).
+2026-11-20 10:18:34 [INFO ] Paso 3: Agitador (NEMA17): apagar
+2026-11-20 10:18:34 [INFO ] Esperando al usuario: Medición: rendimiento.
+2026-11-20 10:18:56 [INFO ] Paso 4: rendimiento = 43,51
+2026-11-20 10:18:56 [INFO ] Experimento 5 completado: rendimiento = 43,51
+2026-11-20 10:18:56 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 4,7 mL, Caudal de Bureta 1 = 3,384 mL/s, Velocidad de Agitador (NEMA17) = 38 rpm
+2026-11-20 10:18:56 [INFO ] Esperando al usuario: Experimento 2 de 20: ¿ejecutar esta propuesta?.
+2026-11-20 10:18:58 [INFO ] --- Experimento 6 (n.º 2 de la campaña) ---
+2026-11-20 10:18:58 [INFO ] Paso 1: Agitador (NEMA17): encender (queda girando) — velocidad 38 rpm
+2026-11-20 10:18:58 [INFO ] Paso 2: Bureta 1: dosificar un volumen a un caudal — volumen 4,7 mL, caudal 3,384 mL/s
+2026-11-20 10:19:00 [INFO ]          Bureta 1: robinete al 100 % durante 1.7 s (caudal medio 2.725 mL/s).
+2026-11-20 10:19:00 [INFO ] Paso 3: Agitador (NEMA17): apagar
+2026-11-20 10:19:01 [INFO ] Esperando al usuario: Medición: rendimiento.
+2026-11-20 10:20:13 [INFO ] Paso 4: rendimiento = 47,01
+2026-11-20 10:20:13 [INFO ] Experimento 6 completado: rendimiento = 47,01
+2026-11-20 10:20:13 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 5 mL, Caudal de Bureta 1 = 1,92 mL/s, Velocidad de Agitador (NEMA17) = 30 rpm
+2026-11-20 10:20:13 [INFO ] Esperando al usuario: Experimento 3 de 20: ¿ejecutar esta propuesta?.
+2026-11-20 10:20:59 [INFO ] --- Experimento 7 (n.º 3 de la campaña) ---
+2026-11-20 10:20:59 [INFO ] Paso 1: Agitador (NEMA17): encender (queda girando) — velocidad 30 rpm
+2026-11-20 10:20:59 [INFO ] Paso 2: Bureta 1: dosificar un volumen a un caudal — volumen 5 mL, caudal 1,92 mL/s
+2026-11-20 10:21:03 [INFO ]          Bureta 1: robinete al 55 % durante 3.4 s (caudal medio 1.482 mL/s).
+2026-11-20 10:21:03 [INFO ] Paso 3: Agitador (NEMA17): apagar
+2026-11-20 10:21:03 [INFO ] Esperando al usuario: Medición: rendimiento.
+2026-11-20 10:21:11 [INFO ] Paso 4: rendimiento = 18,27
+2026-11-20 10:21:11 [INFO ] Experimento 7 completado: rendimiento = 18,27
+2026-11-20 10:21:12 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 2 mL, Caudal de Bureta 1 = 1,769 mL/s, Velocidad de Agitador (NEMA17) = 34 rpm
+2026-11-20 10:21:12 [INFO ] Esperando al usuario: Experimento 4 de 20: ¿ejecutar esta propuesta?.
+2026-11-20 10:21:30 [INFO ] --- Experimento 8 (n.º 4 de la campaña) ---
+2026-11-20 10:21:30 [INFO ] Paso 1: Agitador (NEMA17): encender (queda girando) — velocidad 34 rpm
+2026-11-20 10:21:31 [INFO ] Paso 2: Bureta 1: dosificar un volumen a un caudal — volumen 2 mL, caudal 1,769 mL/s
+2026-11-20 10:21:33 [INFO ]          Bureta 1: robinete al 50 % durante 1.7 s (caudal medio 1.207 mL/s).
+2026-11-20 10:21:33 [INFO ] Paso 3: Agitador (NEMA17): apagar
+2026-11-20 10:21:33 [INFO ] Esperando al usuario: Medición: rendimiento.
+2026-11-20 10:21:39 [INFO ] Paso 4: rendimiento = 86,31
+2026-11-20 10:21:39 [INFO ] Experimento 8 completado: rendimiento = 86,31
+2026-11-20 10:21:39 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 2 mL, Caudal de Bureta 1 = 2,002 mL/s, Velocidad de Agitador (NEMA17) = 40 rpm
+2026-11-20 10:21:39 [INFO ] Esperando al usuario: Experimento 5 de 20: ¿ejecutar esta propuesta?.
+2026-11-20 10:21:58 [INFO ] --- Experimento 9 (n.º 5 de la campaña) ---
+2026-11-20 10:21:58 [INFO ] Paso 1: Agitador (NEMA17): encender (queda girando) — velocidad 40 rpm
+2026-11-20 10:21:58 [INFO ] Paso 2: Bureta 1: dosificar un volumen a un caudal — volumen 2 mL, caudal 2,002 mL/s
+2026-11-20 10:22:00 [INFO ]          Bureta 1: robinete al 58 % durante 1.6 s (caudal medio 1.261 mL/s).
+2026-11-20 10:22:00 [INFO ] Paso 3: Agitador (NEMA17): apagar
+2026-11-20 10:22:00 [INFO ] Esperando al usuario: Medición: rendimiento.
+2026-11-20 10:22:06 [INFO ] Paso 4: rendimiento = 44,04
+2026-11-20 10:22:06 [INFO ] Experimento 9 completado: rendimiento = 44,04
+2026-11-20 10:22:07 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 2,1 mL, Caudal de Bureta 1 = 1,766 mL/s, Velocidad de Agitador (NEMA17) = 34 rpm
+2026-11-20 10:22:07 [INFO ] Esperando al usuario: Experimento 6 de 20: ¿ejecutar esta propuesta?.
+2026-11-20 10:22:20 [INFO ] --- Experimento 10 (n.º 6 de la campaña) ---
+2026-11-20 10:22:20 [INFO ] Paso 1: Agitador (NEMA17): encender (queda girando) — velocidad 34 rpm
+2026-11-20 10:22:20 [INFO ] Paso 2: Bureta 1: dosificar un volumen a un caudal — volumen 2,1 mL, caudal 1,766 mL/s
+2026-11-20 10:22:23 [INFO ]          Bureta 1: robinete al 50 % durante 2.0 s (caudal medio 1.076 mL/s).
+2026-11-20 10:22:23 [INFO ] Paso 3: Agitador (NEMA17): apagar
+2026-11-20 10:22:23 [INFO ] Esperando al usuario: Medición: rendimiento.
+2026-11-20 10:22:29 [INFO ] Paso 4: rendimiento = 86,58
+2026-11-20 10:22:29 [INFO ] Experimento 10 completado: rendimiento = 86,58
+2026-11-20 10:22:29 [INFO ] Propuesta (optimizacion): Volumen de Bureta 1 = 4 mL, Caudal de Bureta 1 = 3,357 mL/s, Velocidad de Agitador (NEMA17) = 34 rpm
+2026-11-20 10:22:29 [INFO ] Esperando al usuario: Experimento 7 de 20: ¿ejecutar esta propuesta?.
+2026-11-20 10:22:47 [INFO ] --- Experimento 11 (n.º 7 de la campaña) ---
+2026-11-20 10:22:47 [INFO ] Paso 1: Agitador (NEMA17): encender (queda girando) — velocidad 34 rpm
+2026-11-20 10:22:47 [INFO ] Paso 2: Bureta 1: dosificar un volumen a un caudal — volumen 4 mL, caudal 3,357 mL/s
+2026-11-20 10:22:47 [INFO ] ESP32> Traceback (most recent call last):
+2026-11-20 10:22:47 [INFO ] ESP32> File "main.py", line 291, in <module>
+2026-11-20 10:22:47 [INFO ] ESP32> File "main.py", line 283, in principal
+2026-11-20 10:22:47 [INFO ] ESP32> File "main.py", line 272, in vuelta
+2026-11-20 10:22:47 [INFO ] ESP32> File "main.py", line 146, in vigilar
+2026-11-20 10:22:47 [INFO ] ESP32> File "drivers/motor_paso.py", line 105, in tick
+2026-11-20 10:22:47 [INFO ] ESP32> File "drivers/motor_paso.py", line 44, in _aplicar
+2026-11-20 10:22:47 [INFO ] ESP32> RuntimeError: out of PWM timers:4
+2026-11-20 10:22:47 [INFO ] ESP32> MicroPython v1.29.0 on 2026-08-24; Generic ESP32S2 module with ESP32-S2
+2026-11-20 10:22:47 [INFO ] ESP32> Type "help()" for more information.
+2026-11-20 10:22:48 [INFO ] ESP32> >>> {"c":"latido"}
+2026-11-20 10:22:49 [INFO ] ESP32> >>> {"c":"latido"}
+2026-11-20 10:22:50 [INFO ] ESP32> >>> {"c":"latido"}
+2026-11-20 10:22:51 [INFO ] ESP32> >>> {"c":"latido"}
+2026-11-20 10:22:52 [INFO ] ESP32> >>> {"c":"latido"}
+2026-11-20 10:22:53 [INFO ] ESP32> >>> {"c":"latido"}
+2026-11-20 10:22:54 [INFO ] ESP32> >>> {"c":"latido"}
+2026-11-20 10:22:55 [INFO ] ESP32> >>> {"c":"latido"}
+2026-11-20 10:22:56 [INFO ] ESP32> >>> {"c":"latido"}
+2026-11-20 10:22:57 [INFO ] ESP32> >>> {"c":"latido"}
+2026-11-20 10:22:58 [INFO ] ESP32> >>> {"c":"latido"}
+2026-11-20 10:22:59 [INFO ] ESP32> >>> {"c":"latido"}
+2026-11-20 10:23:00 [INFO ] ESP32> >>> {"c":"latido"}
+2026-11-20 10:23:01 [INFO ] ESP32> >>> {"c":"latido"}
+2026-11-20 10:23:01 [INFO ] ESP32> >>> {"id":65,"c":"accion","m":"bureta_1","a":"cerrar","p":{}}
+2026-11-20 10:23:02 [INFO ] ESP32> >>> {"c":"latido"}
+2026-11-20 10:23:02 [ERROR] PARADA DE EMERGENCIA (Botón de la pantalla).
+2026-11-20 10:23:02 [INFO ] ESP32> >>> {"c":"parar"}
+2026-11-20 10:23:03 [INFO ] ESP32> >>> {"c":"latido"}
+2026-11-20 10:23:04 [INFO ] ESP32> >>> {"c":"latido"}
+2026-11-20 10:23:05 [INFO ] ESP32> >>> {"c":"latido"}
+2026-11-20 10:23:05 [INFO ] Se perdió la conexión con el ESP32: ClearCommError failed (PermissionError(13, 'Access is denied.', None, 5))
+2026-11-20 10:23:06 [ERROR] === Fin de campaña: La campaña se detuvo por un error del equipo: El ESP32 no respondió a 'accion' en 14 s. ===
+2026-11-20 10:23:06 [AVISO] Al dejar el equipo seguro: Bureta 1: Se perdió la conexión con el ESP32.
+2026-11-20 10:23:06 [AVISO] Al dejar el equipo seguro: Agitador (NEMA17): No hay conexión con el ESP32.
+2026-11-20 10:23:06 [AVISO] Al dejar el equipo seguro: No hay conexión con el ESP32.
+2026-11-20 10:23:06 [INFO ] Informe generado: informe_lkjfd_20261120-102306.pdf
+2026-11-20 10:39:27 [INFO ] ESP32> 25
+2026-11-20 10:39:27 [INFO ] ESP32> Build:Oct 25 2019
+2026-11-20 10:39:27 [INFO ] ESP32> rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+2026-11-20 10:39:27 [INFO ] ESP32> SPIWP:0xee
+2026-11-20 10:39:27 [INFO ] ESP32> mode:DIO, clock div:1
+2026-11-20 10:39:27 [INFO ] ESP32> load:0x3ffe5110,len:0xe3c
+2026-11-20 10:39:27 [INFO ] ESP32> load:0x4004a000,len:0x8ec
+2026-11-20 10:39:27 [INFO ] ESP32> load:0x4004e000,len:0x3180
+2026-11-20 10:39:27 [INFO ] ESP32> entry 0x4004a130
+2026-11-20 10:39:31 [INFO ] Se perdió la conexión con el ESP32: byref() argument 1 must be _ctypes._CData, not None
+2026-11-20 11:04:12 [INFO ] Se perdió la conexión con el ESP32: ReadFile failed (OSError(9, 'The handle is invalid.', None, 6))
+2026-11-20 11:19:43 [INFO ] Evento del ESP32: {'ev': 'aviso', 'texto': 'bureta_1: robinete cerrado por tiempo maximo'}
+2026-11-20 11:19:43 [AVISO] Aviso del ESP32: bureta_1: robinete cerrado por tiempo maximo
+2026-11-20 11:29:01 [INFO ] Lista previa confirmada por el usuario: Tengo puestos antiparras, guantes y guardapolvo. | Los reactivos cargados son los indicados y están rotulados. | El vaso de reacción está limpio, vacío y en su lugar. | La zona de movimiento del brazo está despejada. | Tengo al alcance el botón de parada de emergencia. | La ventilación es la adecuada para esta reacción.
+2026-11-20 11:29:01 [INFO ] === Inicio de campaña «ofjas» (ESP32 en COM3) ===
+2026-11-20 11:29:01 [INFO ] Esperando al usuario: Preparación: Bureta 1.
+2026-11-20 11:30:39 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-20 11:30:39 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 1 mL, Caudal de Bureta 1 = 4,028 mL/s, Velocidad de Agitador (NEMA17) = 20 rpm
+2026-11-20 11:30:39 [INFO ] Esperando al usuario: Experimento 1 de 20: ¿ejecutar esta propuesta?.
+2026-11-20 11:30:56 [INFO ] --- Experimento 2 (n.º 1 de la campaña) ---
+2026-11-20 11:30:56 [INFO ] Paso 1: Agitador (NEMA17): encender (queda girando) — velocidad 20 rpm
+2026-11-20 11:30:56 [INFO ] Paso 2: Bureta 1: dosificar un volumen a un caudal — volumen 1 mL, caudal 4,028 mL/s
+2026-11-20 11:30:57 [ERROR] === Fin de campaña: La campaña se detuvo por un error del equipo: Bureta 1: esta dosis pide abrir el robinete solo 0.45 s, y el servo continuo tarda 0.72 s en abrirlo a ese 100 %. Dosifique un volumen mayor o con menos caudal, o acelere el servo (servo_vel_us) y vuelva a medir sus °/s. ===
+2026-11-20 11:30:57 [INFO ] Informe generado: informe_ofjas_20261120-113057.pdf
+2026-11-20 11:32:09 [INFO ] Lista previa confirmada por el usuario: Tengo puestos antiparras, guantes y guardapolvo. | Los reactivos cargados son los indicados y están rotulados. | El vaso de reacción está limpio, vacío y en su lugar. | La zona de movimiento del brazo está despejada. | Tengo al alcance el botón de parada de emergencia. | La ventilación es la adecuada para esta reacción.
+2026-11-20 11:32:09 [INFO ] === Inicio de campaña «ofjas» (ESP32 en COM3) ===
+2026-11-20 11:32:09 [INFO ] Esperando al usuario: Preparación: Bureta 1.
+2026-11-20 11:32:13 [INFO ] Bureta 1: el usuario informó Reactivo en la bureta (llena = 25) = 25 mL.
+2026-11-20 11:32:13 [INFO ] Propuesta (exploracion): Volumen de Bureta 1 = 5 mL, Caudal de Bureta 1 = 0,028 mL/s, Velocidad de Agitador (NEMA17) = 20 rpm
+2026-11-20 11:32:13 [INFO ] Esperando al usuario: Experimento 1 de 20: ¿ejecutar esta propuesta?.
+2026-11-20 11:32:26 [INFO ] --- Experimento 3 (n.º 1 de la campaña) ---
+2026-11-20 11:32:26 [INFO ] Paso 1: Agitador (NEMA17): encender (queda girando) — velocidad 20 rpm
+2026-11-20 11:32:26 [INFO ] Paso 2: Bureta 1: dosificar un volumen a un caudal — volumen 5 mL, caudal 0,028 mL/s
+2026-11-20 11:32:51 [INFO ] Pausa pedida: se detendrá al terminar el paso en curso.
+2026-11-20 11:32:56 [INFO ] Se reanuda la campaña.
+2026-11-20 11:32:57 [ERROR] PARADA DE EMERGENCIA (Botón de la pantalla).
+2026-11-20 11:32:57 [ERROR] Campaña detenida por parada de emergencia.
+2026-11-20 11:33:00 [AVISO] Sistema rearmado por el usuario.
+2026-11-20 12:00:43 [INFO ] Se perdió la conexión con el ESP32: ClearCommError failed (PermissionError(13, 'Access is denied.', None, 5))
+2026-11-20 17:53:34 [INFO ] ESP32> 5
+2026-11-20 17:53:34 [INFO ] ESP32> Build:Oct 25 2019
+2026-11-20 17:53:34 [INFO ] ESP32> rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+2026-11-20 17:53:34 [INFO ] ESP32> SPIWP:0xee
+2026-11-20 17:53:34 [INFO ] ESP32> mode:DIO, clock div:1
+2026-11-20 17:53:34 [INFO ] ESP32> load:0x3ffe5110,len:0xe3c
+2026-11-20 17:53:34 [INFO ] ESP32> load:0x4004a000,len:0x8ec
+2026-11-20 17:53:34 [INFO ] ESP32> load:0x4004e000,len:0x3180
+2026-11-20 17:53:34 [INFO ] ESP32> entry 0x4004a130
+2026-11-20 17:58:19 [INFO ] Evento del ESP32: {'ev': 'aviso', 'texto': 'bureta_1: robinete cerrado por tiempo maximo'}
+2026-11-20 17:58:19 [AVISO] Aviso del ESP32: bureta_1: robinete cerrado por tiempo maximo
+2026-11-20 17:58:24 [INFO ] Se perdió la conexión con el ESP32: ClearCommError failed (PermissionError(13, 'Access is denied.', None, 5))
+2026-11-20 18:02:05 [INFO ] ESP32> 025
+2026-11-20 18:02:05 [INFO ] ESP32> Build:Oct 25 2019
+2026-11-20 18:02:05 [INFO ] ESP32> rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+2026-11-20 18:02:05 [INFO ] ESP32> SPIWP:0xee
+2026-11-20 18:02:05 [INFO ] ESP32> mode:DIO, clock div:1
+2026-11-20 18:02:05 [INFO ] ESP32> load:0x3ffe5110,len:0xe3c
+2026-11-20 18:02:05 [INFO ] ESP32> load:0x4004a000,len:0x8ec
+2026-11-20 18:02:05 [INFO ] ESP32> load:0x4004e000,len:0x3180
+2026-11-20 18:02:05 [INFO ] ESP32> entry 0x4004a130
+2026-11-20 18:03:21 [INFO ] Se perdió la conexión con el ESP32: ClearCommError failed (PermissionError(13, 'Access is denied.', None, 5))
+2026-11-20 18:07:23 [INFO ] ESP32> 5
+2026-11-20 18:07:23 [INFO ] ESP32> Build:Oct 25 2019
+2026-11-20 18:07:23 [INFO ] ESP32> rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+2026-11-20 18:07:23 [INFO ] ESP32> SPIWP:0xee
+2026-11-20 18:07:23 [INFO ] ESP32> mode:DIO, clock div:1
+2026-11-20 18:07:23 [INFO ] ESP32> load:0x3ffe5110,len:0xe3c
+2026-11-20 18:07:23 [INFO ] ESP32> load:0x4004a000,len:0x8ec
+2026-11-20 18:07:23 [INFO ] ESP32> load:0x4004e000,len:0x3180
+2026-11-20 18:07:23 [INFO ] ESP32> entry 0x4004a130
+2026-11-20 18:07:51 [INFO ] Se perdió la conexión con el ESP32: ClearCommError failed (PermissionError(13, 'Access is denied.', None, 5))
+2026-11-20 18:08:12 [INFO ] ESP32> 25
+2026-11-20 18:08:12 [INFO ] ESP32> Build:Oct 25 2019
+2026-11-20 18:08:12 [INFO ] ESP32> rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+2026-11-20 18:08:12 [INFO ] ESP32> SPIWP:0xee
+2026-11-20 18:08:12 [INFO ] ESP32> mode:DIO, clock div:1
+2026-11-20 18:08:12 [INFO ] ESP32> load:0x3ffe5110,len:0xe3c
+2026-11-20 18:08:12 [INFO ] ESP32> load:0x4004a000,len:0x8ec
+2026-11-20 18:08:12 [INFO ] ESP32> load:0x4004e000,len:0x3180
+2026-11-20 18:08:12 [INFO ] ESP32> entry 0x4004a130
+2026-11-20 18:08:22 [INFO ] Se perdió la conexión con el ESP32: ClearCommError failed (PermissionError(13, 'Access is denied.', None, 5))
+2026-11-20 18:08:27 [INFO ] ESP32> 5
+2026-11-20 18:08:27 [INFO ] ESP32> Build:Oct 25 2019
+2026-11-20 18:08:27 [INFO ] ESP32> rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+2026-11-20 18:08:27 [INFO ] ESP32> SPIWP:0xee
+2026-11-20 18:08:27 [INFO ] ESP32> mode:DIO, clock div:1
+2026-11-20 18:08:27 [INFO ] ESP32> load:0x3ffe5110,len:0xe3c
+2026-11-20 18:08:27 [INFO ] ESP32> load:0x4004a000,len:0x8ec
+2026-11-20 18:08:27 [INFO ] ESP32> load:0x4004e000,len:0x3180
+2026-11-20 18:08:27 [INFO ] ESP32> entry 0x4004a130
+2026-11-20 18:08:46 [INFO ] Se perdió la conexión con el ESP32: ReadFile failed (OSError(9, 'The handle is invalid.', None, 6))
+2026-11-20 18:09:09 [INFO ] Se perdió la conexión con el ESP32: ClearCommError failed (PermissionError(13, 'Access is denied.', None, 5))
+2026-11-20 18:10:58 [INFO ] ESP32> 025
+2026-11-20 18:10:58 [INFO ] ESP32> Build:Oct 25 2019
+2026-11-20 18:10:59 [INFO ] ESP32> rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+2026-11-20 18:10:59 [INFO ] ESP32> SPIWP:0xee
+2026-11-20 18:10:59 [INFO ] ESP32> mode:DIO, clock div:1
+2026-11-20 18:10:59 [INFO ] ESP32> load:0x3ffe5110,len:0xe3c
+2026-11-20 18:10:59 [INFO ] ESP32> load:0x4004a000,len:0x8ec
+2026-11-20 18:10:59 [INFO ] ESP32> load:0x4004e000,len:0x3180
+2026-11-20 18:10:59 [INFO ] ESP32> entry 0x4004a130
+2026-11-20 18:20:29 [INFO ] Se perdió la conexión con el ESP32: ClearCommError failed (PermissionError(13, 'Access is denied.', None, 5))
